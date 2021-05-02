@@ -5,7 +5,7 @@ from datetime import date
 from binance.enums import *
 import repository
 from messenger import Messenger 
-
+#teste
 
 SOCKET = "wss://stream.binance.com:9443/ws/ethusdt@kline_1m"
 ORDER_TYPE_MARKET = 'MARKET'
