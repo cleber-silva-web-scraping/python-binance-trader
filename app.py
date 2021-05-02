@@ -7,6 +7,7 @@ import repository
 from messenger import Messenger 
 
 
+
 SOCKET = "wss://stream.binance.com:9443/ws/ethusdt@kline_1m"
 ORDER_TYPE_MARKET = 'MARKET'
 RSI_PERIOD = 14
