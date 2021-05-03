@@ -23,7 +23,6 @@ LOG = "ccd.log"
 SIDE_BUY = 'BUY'
 SIDE_SELL = 'SELL'
 
-
 client = Client(config.API_KEY, config.API_SECRET)
 messenger = Messenger()
 
@@ -52,11 +51,15 @@ def log(message):
         data = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
         writer.write("[{}] {}".format(data, message))
 
+print("In position: {}".format(in_position))
+print('==============================')
+print("")
 
 
 def report():
     inf = get_info()   
     messenger.send("BRL: {}. ETH: {}".format(inf['BRL'], inf['ETH']))
+
 
 schedule.every().hour.do(report)
 
@@ -68,7 +71,6 @@ def make_historical():
     for h in historical:
         closes.append(float(h[4]))
     
-#make_historical()
 
 def _order(_side, quantity, symbol,order_type=ORDER_TYPE_MARKET):
     try:
@@ -85,7 +87,7 @@ def _order(_side, quantity, symbol,order_type=ORDER_TYPE_MARKET):
 def order(side):    
     quantity = TRADE_QUANTITY
     return _order(side, quantity, TRADE_SYMBOL, ORDER_TYPE_MARKET)
-order(SIDE_BUY)
+
 
 def on_open(ws):
     log('opened connection')
