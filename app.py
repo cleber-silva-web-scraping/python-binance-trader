@@ -1,27 +1,32 @@
 import websocket, json, talib, numpy
 import config
 from binance.client import Client
+import time
 from datetime import date
 from datetime import datetime
 from binance.enums import *
 import repository
 from messenger import Messenger 
+import schedule
 
 
 SOCKET = "wss://stream.binance.com:9443/ws/ethusdt@kline_1m"
 ORDER_TYPE_MARKET = 'MARKET'
-RSI_PERIOD = 21
+RSI_PERIOD = 14
 RSI_OVERBOUGHT = 70
 RSI_OVERSOLD = 30
 TRADE_SYMBOL = "ETHBRL"
-TRADE_QUANTITY = 0.009
+TRADE_QUANTITY = 0.008
 DATE_NOW = date.today().strftime("%d %b, %y")
 LOG = "ccd.log" 
  
+SIDE_BUY = 'BUY'
+SIDE_SELL = 'SELL'
 
 
 client = Client(config.API_KEY, config.API_SECRET)
 messenger = Messenger()
+
 
 
 def get_info():
@@ -32,6 +37,8 @@ def get_info():
             retorno[inf['asset']] = inf['free']
 
     return retorno
+
+
 
 in_position = True
 inf = get_info()
@@ -46,10 +53,12 @@ def log(message):
         writer.write("[{}] {}".format(data, message))
 
 
+
 def report():
-    inf = get_info()
-    messenger.send("BRL: {}. ETH: {}".format(side, float(inf['BRL']['asset']), float(inf['ETH']['asset'])))
-    
+    inf = get_info()   
+    messenger.send("BRL: {}. ETH: {}".format(inf['BRL'], inf['ETH']))
+
+schedule.every().hour.do(report)
 
 closes = []
 def make_historical():
@@ -57,14 +66,14 @@ def make_historical():
     log("Building Historical")
     historical = client.get_historical_klines(TRADE_SYMBOL, Client.KLINE_INTERVAL_1MINUTE, "15 Apr, 2021", DATE_NOW) 
     for h in historical:
-        closes.append(h[4])
+        closes.append(float(h[4]))
     
-make_historical()
+#make_historical()
 
-def _order(side, quantity, symbol,order_type=ORDER_TYPE_MARKET):
+def _order(_side, quantity, symbol,order_type=ORDER_TYPE_MARKET):
     try:
         log("Sending order...")
-        order = client.create_order(symbol=TRADE_SYMBOL, side=side, type=order_type, quantity=quantity)
+        order = client.create_order(symbol=TRADE_SYMBOL, side=_side, type=order_type, quantity=quantity)
         repository.orders.insert_one(order)
         report()
         log(order)
@@ -76,6 +85,7 @@ def _order(side, quantity, symbol,order_type=ORDER_TYPE_MARKET):
 def order(side):    
     quantity = TRADE_QUANTITY
     return _order(side, quantity, TRADE_SYMBOL, ORDER_TYPE_MARKET)
+order(SIDE_BUY)
 
 def on_open(ws):
     log('opened connection')
@@ -85,7 +95,7 @@ def on_close(ws):
 
 def on_message(ws, message):
     global closes, in_position
-    
+    schedule.run_pending()
     #log('received message')
     json_message = json.loads(message)
     #plog.plog(json_message)
