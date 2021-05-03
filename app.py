@@ -10,15 +10,16 @@ from messenger import Messenger
 
 SOCKET = "wss://stream.binance.com:9443/ws/ethusdt@kline_1m"
 ORDER_TYPE_MARKET = 'MARKET'
-RSI_PERIOD = 21
+RSI_PERIOD = 14
 RSI_OVERBOUGHT = 70
 RSI_OVERSOLD = 30
 TRADE_SYMBOL = "ETHBRL"
-TRADE_QUANTITY = 0.009
+TRADE_QUANTITY = 0.008
 DATE_NOW = date.today().strftime("%d %b, %y")
 LOG = "ccd.log" 
  
-
+SIDE_BUY = 'BUY'
+SIDE_SELL = 'SELL'
 
 client = Client(config.API_KEY, config.API_SECRET)
 messenger = Messenger()
@@ -45,6 +46,9 @@ def log(message):
         data = datetime.now().strftime("%d-%m-%Y %H:%M:%S")
         writer.write("[{}] {}".format(data, message))
 
+print("In position: {}".format(in_position))
+print('==============================')
+print("")
 
 def report():
     inf = get_info()
@@ -59,12 +63,14 @@ def make_historical():
     for h in historical:
         closes.append(h[4])
     
-make_historical()
-
-def _order(side, quantity, symbol,order_type=ORDER_TYPE_MARKET):
+#make_historical()
+#print(closes)
+#print(len(closes))
+#print('================')
+def _order(_side, quantity, symbol,order_type=ORDER_TYPE_MARKET):
     try:
         log("Sending order...")
-        order = client.create_order(symbol=TRADE_SYMBOL, side=side, type=order_type, quantity=quantity)
+        order = client.create_order(symbol=TRADE_SYMBOL, side=_side, type=order_type, quantity=quantity)
         repository.orders.insert_one(order)
         report()
         log(order)
@@ -76,6 +82,7 @@ def _order(side, quantity, symbol,order_type=ORDER_TYPE_MARKET):
 def order(side):    
     quantity = TRADE_QUANTITY
     return _order(side, quantity, TRADE_SYMBOL, ORDER_TYPE_MARKET)
+
 
 def on_open(ws):
     log('opened connection')
