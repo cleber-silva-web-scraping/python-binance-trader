@@ -77,16 +77,24 @@ def _order(_side, quantity, symbol,order_type=ORDER_TYPE_MARKET):
         log("Sending order...")
         order = client.create_order(symbol=TRADE_SYMBOL, side=_side, type=order_type, quantity=quantity)
         repository.orders.insert_one(order)
+        messenger.send(_side)
         report()
         log(order)
     except Exception as e:
-        log("an exception occured - {}".format(e))
+        msg = "an exception occured - {}".format(e)
+        log(msg)
+        messenger.send(msg)
         return False
     return True
 
 def order(side):    
     quantity = TRADE_QUANTITY
-    return _order(side, quantity, TRADE_SYMBOL, ORDER_TYPE_MARKET)
+    to_remove = 0.0001
+    max_try = 20
+    while _order(side, quantity, TRADE_SYMBOL, ORDER_TYPE_MARKET) == False and max_try > 0:
+        quantity =  float("{:.4f}".format(quantity - to_remove))
+        max_try = max_try - 1
+    return max_try > 0
 
 
 def on_open(ws):
