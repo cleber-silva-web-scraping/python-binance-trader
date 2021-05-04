@@ -151,9 +151,11 @@ def buy():
 
 def on_open(ws):
     log('opened connection')
+    messenger.send('opened connection')
 
 def on_close(ws):
     log('closed connection')
+    messenger.send('closed connection')
 
 def on_message(ws, message):
     global closes, in_position    
