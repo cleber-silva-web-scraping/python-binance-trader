@@ -177,7 +177,9 @@ def on_message(ws, message):
                 if(SWING_PRICE == 0.0 or get_price() > SWING_PRICE):
                     sell()            
                 else:
-                    print("Don't sell [>:| ")
+                    msg = "Don't sell [>:| "
+                    log(msg)
+                    messenger.send(msg)
             if last_rsi < RSI_OVERSOLD:
                 buy()         
 
