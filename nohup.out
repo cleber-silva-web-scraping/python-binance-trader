@@ -1,0 +1,4903 @@
+Traceback (most recent call last):
+  File "app.py", line 10, in <module>
+    import schedule
+ModuleNotFoundError: No module named 'schedule'
+In position: False
+==============================
+
+opened connection
+candle closed at 3021.71000000
+candle closed at 3019.10000000
+candle closed at 3016.91000000
+candle closed at 3018.60000000
+candle closed at 3014.42000000
+candle closed at 3015.63000000
+candle closed at 3014.55000000
+candle closed at 3011.72000000
+candle closed at 3014.45000000
+candle closed at 3013.27000000
+candle closed at 3016.62000000
+candle closed at 3015.48000000
+candle closed at 3011.33000000
+candle closed at 3014.35000000
+candle closed at 3015.18000000
+the current rsi is 39.857098477787844
+candle closed at 3017.66000000
+the current rsi is 44.464794015754734
+candle closed at 3018.19000000
+the current rsi is 45.427039288782254
+candle closed at 3016.52000000
+the current rsi is 42.90445836099769
+candle closed at 3017.40000000
+the current rsi is 44.648710649549464
+candle closed at 3018.53000000
+the current rsi is 46.892308338703444
+candle closed at 3019.84000000
+the current rsi is 49.45037981184528
+candle closed at 3023.00000000
+the current rsi is 55.07213007130688
+candle closed at 3021.29000000
+the current rsi is 51.72010860549114
+candle closed at 3020.44000000
+the current rsi is 50.08811991087334
+candle closed at 3022.09000000
+the current rsi is 53.1767705249955
+candle closed at 3022.74000000
+the current rsi is 54.37457484468222
+candle closed at 3024.24000000
+the current rsi is 57.10183053682935
+candle closed at 3023.12000000
+the current rsi is 54.48309207665608
+candle closed at 3022.13000000
+the current rsi is 52.204071095213635
+candle closed at 3019.41000000
+the current rsi is 46.45453168234784
+candle closed at 3020.09000000
+the current rsi is 47.996536202061584
+candle closed at 3018.56000000
+the current rsi is 44.86580628276719
+candle closed at 3020.00000000
+the current rsi is 48.28488386984338
+candle closed at 3022.46000000
+the current rsi is 53.580819476425404
+candle closed at 3021.30000000
+the current rsi is 50.93216739280364
+candle closed at 3021.88000000
+the current rsi is 52.204376164074404
+candle closed at 3021.80000000
+the current rsi is 52.00409241666025
+candle closed at 3022.95000000
+the current rsi is 54.694875351403006
+candle closed at 3022.60000000
+the current rsi is 53.70798656293009
+candle closed at 3022.01000000
+the current rsi is 52.00452870543191
+candle closed at 3024.93000000
+the current rsi is 58.94479685951634
+candle closed at 3025.34000000
+the current rsi is 59.82328539630406
+candle closed at 3024.05000000
+the current rsi is 55.77910975518464
+candle closed at 3029.30000000
+the current rsi is 65.88652282037285
+candle closed at 3025.53000000
+the current rsi is 55.98986250173539
+candle closed at 3029.68000000
+the current rsi is 62.64207679490668
+candle closed at 3031.68000000
+the current rsi is 65.35954038345425
+candle closed at 3031.42000000
+the current rsi is 64.70064321304596
+candle closed at 3034.95000000
+the current rsi is 69.2353268988581
+candle closed at 3033.60000000
+the current rsi is 65.75627310745598
+candle closed at 3033.25000000
+the current rsi is 64.84648801535945
+candle closed at 3033.17000000
+the current rsi is 64.62638897864434
+candle closed at 3030.54000000
+the current rsi is 57.69357457287103
+candle closed at 3033.25000000
+the current rsi is 62.19404694852694
+candle closed at 3031.89000000
+the current rsi is 58.81279238397644
+candle closed at 3031.84000000
+the current rsi is 58.68646927288504
+candle closed at 3031.01000000
+the current rsi is 56.51637749344075
+candle closed at 3030.73000000
+the current rsi is 55.767201940802835
+candle closed at 3031.46000000
+the current rsi is 57.3544066843615
+candle closed at 3030.74000000
+the current rsi is 55.24866708366309
+candle closed at 3028.25000000
+the current rsi is 48.60281284841673
+candle closed at 3025.00000000
+the current rsi is 41.573480340363936
+candle closed at 3023.15000000
+the current rsi is 38.187768339675806
+candle closed at 3020.90000000
+the current rsi is 34.50701667994954
+candle closed at 3024.99000000
+the current rsi is 44.90300179084551
+candle closed at 3025.39000000
+the current rsi is 45.80898372453491
+candle closed at 3027.42000000
+the current rsi is 50.27751832867781
+candle closed at 3029.39000000
+the current rsi is 54.2224981845297
+candle closed at 3032.23000000
+the current rsi is 59.24283400575363
+candle closed at 3035.21000000
+the current rsi is 63.73679660558829
+candle closed at 3034.59000000
+the current rsi is 62.20013958775997
+candle closed at 3034.74000000
+the current rsi is 62.436101346554786
+candle closed at 3034.79000000
+the current rsi is 62.52008860648377
+candle closed at 3033.01000000
+the current rsi is 57.58403856352709
+candle closed at 3037.05000000
+the current rsi is 64.44528763398584
+candle closed at 3044.26000000
+the current rsi is 72.87750939789257
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 3047.76000000
+the current rsi is 75.8693063739483
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 3050.65000000
+the current rsi is 78.02481413216654
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 3051.19000000
+the current rsi is 78.41283580171728
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 3050.12000000
+the current rsi is 75.565607434492
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 3045.50000000
+the current rsi is 64.65002916851769
+candle closed at 3044.91000000
+the current rsi is 63.39068983661208
+candle closed at 3045.13000000
+the current rsi is 63.67483287232011
+candle closed at 3044.40000000
+the current rsi is 61.956461844630006
+candle closed at 3045.97000000
+the current rsi is 64.19446537056918
+candle closed at 3046.97000000
+the current rsi is 65.583249546802
+candle closed at 3045.63000000
+the current rsi is 62.10697206769594
+candle closed at 3044.97000000
+the current rsi is 60.4085571841432
+candle closed at 3047.74000000
+the current rsi is 64.7638057194376
+candle closed at 3051.10000000
+the current rsi is 69.19104302994134
+candle closed at 3047.85000000
+the current rsi is 61.18337594100629
+candle closed at 3049.22000000
+the current rsi is 63.12094760661614
+candle closed at 3049.22000000
+the current rsi is 63.12094760661613
+candle closed at 3050.54000000
+the current rsi is 65.06931072389865
+candle closed at 3055.99000000
+the current rsi is 71.71392889592305
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 3052.60000000
+the current rsi is 63.608667073006856
+candle closed at 3050.39000000
+the current rsi is 58.93244377354676
+candle closed at 3054.40000000
+the current rsi is 64.09090518911866
+candle closed at 3055.15000000
+the current rsi is 64.97699214175316
+candle closed at 3056.91000000
+the current rsi is 67.0328334763306
+candle closed at 3058.25000000
+the current rsi is 68.5466720567679
+candle closed at 3053.57000000
+the current rsi is 58.45138858654568
+candle closed at 3054.01000000
+the current rsi is 59.061841199040835
+candle closed at 3055.23000000
+the current rsi is 60.78239534520815
+candle closed at 3056.85000000
+the current rsi is 63.00577602261607
+candle closed at 3054.20000000
+the current rsi is 57.28458945162706
+candle closed at 3052.70000000
+the current rsi is 54.280062178960144
+candle closed at 3050.00000000
+the current rsi is 49.27068079768645
+candle closed at 3051.56000000
+the current rsi is 52.02553979550038
+candle closed at 3049.99000000
+the current rsi is 49.1336665538654
+candle closed at 3050.15000000
+the current rsi is 49.442096634140185
+candle closed at 3045.07000000
+the current rsi is 40.95172166574629
+candle closed at 3046.66000000
+the current rsi is 44.182579508564295
+candle closed at 3048.00000000
+the current rsi is 46.823311091772105
+candle closed at 3051.27000000
+the current rsi is 52.703739166557625
+candle closed at 3051.20000000
+the current rsi is 52.56972265571661
+candle closed at 3052.42000000
+the current rsi is 54.7303054667891
+candle closed at 3054.33000000
+the current rsi is 57.95913499067201
+candle closed at 3055.89000000
+the current rsi is 60.44089576043699
+candle closed at 3054.06000000
+the current rsi is 56.246270410478196
+candle closed at 3056.90000000
+the current rsi is 60.793738413160185
+candle closed at 3057.44000000
+the current rsi is 61.61074279479374
+candle closed at 3057.99000000
+the current rsi is 62.46860449382222
+candle closed at 3059.01000000
+the current rsi is 64.07207816095615
+candle closed at 3057.85000000
+the current rsi is 60.88620468962153
+candle closed at 3051.80000000
+the current rsi is 47.59407254586749
+candle closed at 3054.35000000
+the current rsi is 52.31895492480577
+candle closed at 3052.61000000
+the current rsi is 49.06805791679961
+candle closed at 3052.36000000
+the current rsi is 48.60079323955436
+candle closed at 3054.19000000
+the current rsi is 52.189847130114444
+candle closed at 3056.11000000
+the current rsi is 55.68606659111603
+candle closed at 3055.11000000
+the current rsi is 53.49199495457256
+candle closed at 3057.30000000
+the current rsi is 57.446301813264476
+candle closed at 3055.71000000
+the current rsi is 53.86541680648838
+candle closed at 3054.01000000
+the current rsi is 50.2582041534571
+candle closed at 3057.51000000
+the current rsi is 56.68898731177082
+candle closed at 3058.46000000
+the current rsi is 58.26613112445472
+candle closed at 3057.35000000
+the current rsi is 55.71333477970454
+candle closed at 3055.01000000
+the current rsi is 50.67305507149143
+candle closed at 3054.82000000
+the current rsi is 50.275339202291214
+candle closed at 3056.48000000
+the current rsi is 53.694852330380925
+candle closed at 3057.88000000
+the current rsi is 56.41701485234787
+candle closed at 3058.52000000
+the current rsi is 57.64289405667999
+candle closed at 3059.34000000
+the current rsi is 59.22537764148401
+candle closed at 3058.28000000
+the current rsi is 56.29733454876812
+candle closed at 3056.29000000
+the current rsi is 51.18152099809252
+candle closed at 3053.32000000
+the current rsi is 44.65888940576867
+candle closed at 3051.07000000
+the current rsi is 40.45288332963642
+candle closed at 3054.49000000
+the current rsi is 48.40682660913003
+candle closed at 3053.45000000
+the current rsi is 46.37808614349094
+candle closed at 3052.13000000
+the current rsi is 43.865241281420595
+candle closed at 3052.46000000
+the current rsi is 44.67232752825729
+candle closed at 3053.39000000
+the current rsi is 46.98564511495015
+candle closed at 3051.02000000
+the current rsi is 42.149139939101175
+candle closed at 3047.62000000
+the current rsi is 36.36584431892298
+candle closed at 3046.24000000
+the current rsi is 34.30820377447234
+candle closed at 3039.46000000
+the current rsi is 26.40368174950628
+Oversold! Buy! Buy! Buy!
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 26617144, 'orderListId': -1, 'clientOrderId': 'II6lNFIb7BW2id1S2r979i', 'transactTime': 1620016740693, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '133.34840000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'fills': [{'price': '16668.55000000', 'qty': '0.00800000', 'commission': '0.00000800', 'commissionAsset': 'ETH', 'tradeId': 1350179}], '_id': ObjectId('608f7e6485fe6956afb4638c')}
+candle closed at 3042.51000000
+the current rsi is 33.79348980784324
+candle closed at 3044.78000000
+the current rsi is 38.724907051481125
+candle closed at 3042.69000000
+the current rsi is 36.061600467239465
+candle closed at 3044.39000000
+the current rsi is 39.694670677408915
+candle closed at 3041.36000000
+the current rsi is 35.79107228810747
+candle closed at 3036.56000000
+the current rsi is 30.649057279344476
+candle closed at 3041.04000000
+the current rsi is 39.39996255018272
+candle closed at 3041.36000000
+the current rsi is 39.98251502779428
+candle closed at 3042.28000000
+the current rsi is 41.71721739719011
+candle closed at 3043.63000000
+the current rsi is 44.26300044256256
+candle closed at 3044.98000000
+the current rsi is 46.76706877450428
+candle closed at 3047.43000000
+the current rsi is 51.063905899636055
+candle closed at 3047.51000000
+the current rsi is 51.20241408332723
+candle closed at 3048.91000000
+the current rsi is 53.673556763968
+candle closed at 3053.33000000
+the current rsi is 60.478330423637196
+candle closed at 3052.95000000
+the current rsi is 59.66687617575801
+candle closed at 3053.01000000
+the current rsi is 59.75868591122235
+candle closed at 3050.07000000
+the current rsi is 53.350354686772974
+candle closed at 3047.63000000
+the current rsi is 48.684200026484376
+candle closed at 3051.82000000
+the current rsi is 55.82868641344143
+candle closed at 3052.00000000
+the current rsi is 56.11137938208619
+candle closed at 3050.00000000
+the current rsi is 52.120014826594094
+candle closed at 3050.04000000
+the current rsi is 52.19325919986141
+candle closed at 3050.45000000
+the current rsi is 52.98712235119045
+candle closed at 3052.07000000
+the current rsi is 56.089807381313605
+candle closed at 3050.90000000
+the current rsi is 53.35125515904935
+candle closed at 3051.98000000
+the current rsi is 55.510572501182075
+candle closed at 3054.15000000
+the current rsi is 59.56097216297002
+candle closed at 3055.34000000
+the current rsi is 61.62430471069358
+candle closed at 3068.57000000
+the current rsi is 76.17739738463656
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3068.49000000
+the current rsi is 75.98973863651538
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3067.72000000
+the current rsi is 74.09768796730506
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3068.85000000
+the current rsi is 75.07836660846246
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3070.40000000
+the current rsi is 76.39835006557506
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3069.04000000
+the current rsi is 72.75703010325518
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3070.22000000
+the current rsi is 73.91856977620385
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3065.43000000
+the current rsi is 62.305564529057776
+candle closed at 3069.33000000
+the current rsi is 66.86943847491622
+candle closed at 3068.25000000
+the current rsi is 64.53907862040525
+candle closed at 3071.92000000
+the current rsi is 68.54999022366567
+candle closed at 3071.67000000
+the current rsi is 67.98587168395241
+candle closed at 3072.77000000
+the current rsi is 69.18738581177888
+candle closed at 3073.59000000
+the current rsi is 70.08860356809194
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3076.47000000
+the current rsi is 73.06802980405683
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3079.71000000
+the current rsi is 75.96817598977188
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3079.78000000
+the current rsi is 76.02823656134791
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3076.78000000
+the current rsi is 68.16547526647045
+candle closed at 3078.00000000
+the current rsi is 69.5448558016644
+candle closed at 3076.88000000
+the current rsi is 66.68807587787673
+candle closed at 3079.55000000
+the current rsi is 69.86601957121658
+candle closed at 3080.63000000
+the current rsi is 71.06833145035577
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3076.25000000
+the current rsi is 60.521844286258165
+candle closed at 3078.08000000
+the current rsi is 62.99287806899293
+candle closed at 3078.75000000
+the current rsi is 63.884185720146604
+candle closed at 3084.28000000
+the current rsi is 70.25254010870773
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3085.28000000
+the current rsi is 71.24012922359582
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3088.88000000
+the current rsi is 74.51970749444463
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3089.46000000
+the current rsi is 75.01406022234902
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3092.03000000
+the current rsi is 77.13127220833161
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3094.48000000
+the current rsi is 78.96148420545289
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3094.22000000
+the current rsi is 78.245814791195
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3090.59000000
+the current rsi is 68.86170869309736
+candle closed at 3093.57000000
+the current rsi is 71.84677675956148
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3095.67000000
+the current rsi is 73.75608397869945
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3093.64000000
+the current rsi is 68.89224222079615
+candle closed at 3094.32000000
+the current rsi is 69.61507414632942
+candle closed at 3090.13000000
+the current rsi is 60.31504950029479
+candle closed at 3093.12000000
+the current rsi is 64.00996821251404
+candle closed at 3094.58000000
+the current rsi is 65.68981051206272
+candle closed at 3093.30000000
+the current rsi is 62.917147404442474
+candle closed at 3093.25000000
+the current rsi is 62.80563006755666
+candle closed at 3097.51000000
+the current rsi is 68.00838952198907
+candle closed at 3095.11000000
+the current rsi is 62.68818234822685
+candle closed at 3097.40000000
+the current rsi is 65.46433179244465
+candle closed at 3099.19000000
+the current rsi is 67.4998898766564
+candle closed at 3104.00000000
+the current rsi is 72.23555851355142
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3103.92000000
+the current rsi is 72.04752073643283
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3098.05000000
+the current rsi is 59.755934940426705
+candle closed at 3101.11000000
+the current rsi is 63.27345778388527
+candle closed at 3103.99000000
+the current rsi is 66.26232093867789
+candle closed at 3102.29000000
+the current rsi is 63.00299136860298
+candle closed at 3101.55000000
+the current rsi is 61.58298641091001
+candle closed at 3102.19000000
+the current rsi is 62.372869342920126
+candle closed at 3101.12000000
+the current rsi is 60.146298484742154
+candle closed at 3099.02000000
+the current rsi is 55.9266181104926
+candle closed at 3095.45000000
+the current rsi is 49.56095147962608
+candle closed at 3094.98000000
+the current rsi is 48.77385719254526
+candle closed at 3098.02000000
+the current rsi is 53.87623152585279
+candle closed at 3096.84000000
+the current rsi is 51.722682280485756
+candle closed at 3099.39000000
+the current rsi is 55.83146735692469
+candle closed at 3099.06000000
+the current rsi is 55.17700174440604
+candle closed at 3099.74000000
+the current rsi is 56.31341309414775
+candle closed at 3094.01000000
+the current rsi is 45.78055752721942
+candle closed at 3096.54000000
+the current rsi is 50.208856756500275
+candle closed at 3096.71000000
+the current rsi is 50.501398552830715
+candle closed at 3096.17000000
+the current rsi is 49.50639046616011
+candle closed at 3093.23000000
+the current rsi is 44.37960767740936
+candle closed at 3087.68000000
+the current rsi is 36.66130345394033
+candle closed at 3084.90000000
+the current rsi is 33.51689662996722
+candle closed at 3089.19000000
+the current rsi is 41.8109909402924
+candle closed at 3092.54000000
+the current rsi is 47.336123561448645
+candle closed at 3091.79000000
+the current rsi is 46.27671039839215
+candle closed at 3095.01000000
+the current rsi is 51.31462168359236
+candle closed at 3095.67000000
+the current rsi is 52.301949324928366
+candle closed at 3096.37000000
+the current rsi is 53.38178379364488
+candle closed at 3096.99000000
+the current rsi is 54.367182910423736
+candle closed at 3094.92000000
+the current rsi is 50.527070188885084
+candle closed at 3094.28000000
+the current rsi is 49.3660759583862
+candle closed at 3093.15000000
+the current rsi is 47.2995261008893
+candle closed at 3091.23000000
+the current rsi is 43.93419771208804
+candle closed at 3086.77000000
+the current rsi is 37.29598642966595
+candle closed at 3091.53000000
+the current rsi is 46.57405105413643
+candle closed at 3091.30000000
+the current rsi is 46.21818992483234
+candle closed at 3090.00000000
+the current rsi is 44.16416024633143
+candle closed at 3090.73000000
+the current rsi is 45.625506718403294
+candle closed at 3091.99000000
+the current rsi is 48.14804434285496
+candle closed at 3089.79000000
+the current rsi is 44.28494923793949
+candle closed at 3087.78000000
+the current rsi is 41.04474510790719
+candle closed at 3082.83000000
+the current rsi is 34.374440294250256
+candle closed at 3086.38000000
+the current rsi is 41.69286572066764
+candle closed at 3087.99000000
+the current rsi is 44.704594670812405
+candle closed at 3087.01000000
+the current rsi is 43.240497987974095
+candle closed at 3087.86000000
+the current rsi is 44.92529396283232
+candle closed at 3088.00000000
+the current rsi is 45.21374634972792
+candle closed at 3089.20000000
+the current rsi is 47.74029018090337
+candle closed at 3092.69000000
+the current rsi is 54.335953664023236
+candle closed at 3091.10000000
+the current rsi is 51.167536314501014
+candle closed at 3089.10000000
+the current rsi is 47.42169227284666
+candle closed at 3089.71000000
+the current rsi is 48.656294112577356
+candle closed at 3089.29000000
+the current rsi is 47.823635379859276
+candle closed at 3088.96000000
+the current rsi is 47.14101960923904
+candle closed at 3089.18000000
+the current rsi is 47.67720880552884
+candle closed at 3089.17000000
+the current rsi is 47.65354652996348
+candle closed at 3089.56000000
+the current rsi is 48.72241083585199
+candle closed at 3087.39000000
+the current rsi is 43.41094533776142
+candle closed at 3086.31000000
+the current rsi is 41.01447813240328
+candle closed at 3085.91000000
+the current rsi is 40.1308460375613
+candle closed at 3085.66000000
+the current rsi is 39.557225339384374
+candle closed at 3084.94000000
+the current rsi is 37.8779935952139
+candle closed at 3087.00000000
+the current rsi is 45.063614533652185
+candle closed at 3088.70000000
+the current rsi is 50.18454966259521
+candle closed at 3086.05000000
+the current rsi is 43.39405971199219
+candle closed at 3082.82000000
+the current rsi is 36.84919829730816
+candle closed at 3083.75000000
+the current rsi is 39.67059605456218
+candle closed at 3085.00000000
+the current rsi is 43.3350693240577
+candle closed at 3085.99000000
+the current rsi is 46.12613784917046
+candle closed at 3082.99000000
+the current rsi is 39.73852451609256
+candle closed at 3083.01000000
+the current rsi is 39.79837851058472
+candle closed at 3085.33000000
+the current rsi is 46.44357232106037
+candle closed at 3085.41000000
+the current rsi is 46.66220807343656
+candle closed at 3087.13000000
+the current rsi is 51.268413223544364
+candle closed at 3090.99000000
+the current rsi is 59.68311541497665
+candle closed at 3091.90000000
+the current rsi is 61.37636176842566
+candle closed at 3095.37000000
+the current rsi is 67.05780289640619
+candle closed at 3096.28000000
+the current rsi is 68.37174771140147
+candle closed at 3095.22000000
+the current rsi is 65.11378105460521
+candle closed at 3098.60000000
+the current rsi is 70.0195163125427
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3099.00000000
+the current rsi is 70.54735650953539
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3100.00000000
+the current rsi is 71.88026326036264
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3100.76000000
+the current rsi is 72.88462325491946
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3100.07000000
+the current rsi is 70.42523747763467
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3106.66000000
+the current rsi is 78.04504892474804
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3118.20000000
+the current rsi is 85.2242661709418
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3119.89000000
+the current rsi is 85.94890304753557
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3120.94000000
+the current rsi is 86.39532627296494
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3128.20000000
+the current rsi is 88.99809919782396
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3126.52000000
+the current rsi is 84.94806238034155
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3126.58000000
+the current rsi is 84.97436129549898
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3131.00000000
+the current rsi is 86.80354900964667
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3136.67000000
+the current rsi is 88.70339632386356
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3135.38000000
+the current rsi is 85.68109411565676
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3130.08000000
+the current rsi is 74.45648980171154
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3133.24000000
+the current rsi is 76.43841153166481
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3137.71000000
+the current rsi is 78.9289703540459
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3136.47000000
+the current rsi is 76.51281279997364
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3134.65000000
+the current rsi is 72.98150158203062
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3131.52000000
+the current rsi is 67.23437416619824
+candle closed at 3131.43000000
+the current rsi is 67.070822670705
+candle closed at 3140.47000000
+the current rsi is 73.93053465651472
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3139.09000000
+the current rsi is 71.48248631315957
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3145.87000000
+the current rsi is 75.73388375989688
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3143.39000000
+the current rsi is 71.53306858041452
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3141.63000000
+the current rsi is 68.62392876487624
+candle closed at 3144.20000000
+the current rsi is 70.50991656429326
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3142.99000000
+the current rsi is 68.42451835622619
+candle closed at 3142.02000000
+the current rsi is 66.72090218956004
+candle closed at 3143.31000000
+the current rsi is 67.86672548433678
+candle closed at 3137.91000000
+the current rsi is 58.74811304015144
+candle closed at 3136.66000000
+the current rsi is 56.844149735655556
+candle closed at 3139.17000000
+the current rsi is 59.67056020593171
+candle closed at 3139.92000000
+the current rsi is 60.50296068826756
+candle closed at 3142.62000000
+the current rsi is 63.429336870037844
+candle closed at 3145.77000000
+the current rsi is 66.54373768731236
+candle closed at 3142.12000000
+the current rsi is 60.15147059848165
+candle closed at 3142.02000000
+the current rsi is 59.98146758167384
+candle closed at 3141.99000000
+the current rsi is 59.92674872267693
+candle closed at 3135.05000000
+the current rsi is 48.82929592198575
+candle closed at 3138.99000000
+the current rsi is 54.033619953108946
+candle closed at 3139.31000000
+the current rsi is 54.43891882728041
+candle closed at 3142.99000000
+the current rsi is 58.92433012324108
+candle closed at 3146.95000000
+the current rsi is 63.13068031039452
+candle closed at 3144.51000000
+the current rsi is 59.1137992963634
+candle closed at 3145.05000000
+the current rsi is 59.724568757847564
+candle closed at 3135.45000000
+the current rsi is 46.442200818186805
+candle closed at 3135.20000000
+the current rsi is 46.15433609209866
+candle closed at 3136.24000000
+the current rsi is 47.60915545472312
+candle closed at 3142.16000000
+the current rsi is 55.05351177455782
+candle closed at 3140.80000000
+the current rsi is 53.18389008337402
+candle closed at 3140.24000000
+the current rsi is 52.394864232457714
+candle closed at 3144.29000000
+the current rsi is 57.32578834290858
+candle closed at 3143.01000000
+the current rsi is 55.373620909569674
+candle closed at 3142.18000000
+the current rsi is 54.08739891947519
+candle closed at 3137.84000000
+the current rsi is 47.8310719014326
+candle closed at 3141.33000000
+the current rsi is 52.581090276964815
+candle closed at 3141.91000000
+the current rsi is 53.341420301846256
+candle closed at 3143.98000000
+the current rsi is 56.04996987638453
+candle closed at 3148.56000000
+the current rsi is 61.39044489092923
+candle closed at 3161.68000000
+the current rsi is 71.91754622662393
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3155.00000000
+the current rsi is 62.56419621464554
+candle closed at 3164.55000000
+the current rsi is 68.80965199903181
+candle closed at 3170.00000000
+the current rsi is 71.7102279258015
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3173.37000000
+the current rsi is 73.35997271452139
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3175.55000000
+the current rsi is 74.39998578943195
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3177.18000000
+the current rsi is 75.18020757586496
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3178.63000000
+the current rsi is 75.88432071327347
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3175.26000000
+the current rsi is 70.8533555797129
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3180.00000000
+the current rsi is 73.51323138164167
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3177.56000000
+the current rsi is 69.97324975417297
+candle closed at 3178.51000000
+the current rsi is 70.567515745967
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3180.14000000
+the current rsi is 71.6058797987611
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3182.60000000
+the current rsi is 73.14569575444624
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3180.70000000
+the current rsi is 69.98871735263631
+candle closed at 3179.00000000
+the current rsi is 67.194275266531
+candle closed at 3173.50000000
+the current rsi is 58.98827997741544
+candle closed at 3177.77000000
+the current rsi is 62.787843398490836
+candle closed at 3179.02000000
+the current rsi is 63.84386909375915
+candle closed at 3186.27000000
+the current rsi is 69.28780687110849
+candle closed at 3188.45000000
+the current rsi is 70.71561697699357
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3196.01000000
+the current rsi is 75.04789904897959
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3195.33000000
+the current rsi is 73.98764087952841
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3196.38000000
+the current rsi is 74.5847215752527
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3198.94000000
+the current rsi is 76.02938856906772
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3201.03000000
+the current rsi is 77.170330415227
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+candle closed at 3192.93000000
+the current rsi is 64.38056455825736
+candle closed at 3186.53000000
+the current rsi is 56.42351584363702
+candle closed at 3190.57000000
+the current rsi is 59.801037591715776
+candle closed at 3182.01000000
+the current rsi is 50.81417804048396
+candle closed at 3180.00000000
+the current rsi is 48.95383542500141
+candle closed at 3186.42000000
+the current rsi is 54.663138945875964
+candle closed at 3186.72000000
+the current rsi is 54.9168882209981
+candle closed at 3189.04000000
+the current rsi is 56.924744565805966
+candle closed at 3187.69000000
+the current rsi is 55.37915026672229
+candle closed at 3190.97000000
+the current rsi is 58.33886766218925
+candle closed at 3194.02000000
+the current rsi is 60.93379001823611
+candle closed at 3187.13000000
+the current rsi is 52.91552392979213
+candle closed at 3190.00000000
+the current rsi is 55.53997986855366
+candle closed at 3185.47000000
+the current rsi is 50.733194387975225
+candle closed at 3186.30000000
+the current rsi is 51.56040125934649
+candle closed at 3184.60000000
+the current rsi is 49.71904419362734
+candle closed at 3183.39000000
+the current rsi is 48.39428502353237
+candle closed at 3184.07000000
+the current rsi is 49.213263884665565
+candle closed at 3186.00000000
+the current rsi is 51.562825166398795
+candle closed at 3174.64000000
+the current rsi is 39.8706462063387
+candle closed at 3176.82000000
+the current rsi is 42.56229666501186
+candle closed at 3175.98000000
+the current rsi is 41.786100583822865
+candle closed at 3162.64000000
+the current rsi is 31.851724990656948
+candle closed at 3157.94000000
+the current rsi is 29.21624435203669
+It is oversold, but you already own it, nothing to do.
+candle closed at 3162.95000000
+the current rsi is 35.35636872757703
+candle closed at 3159.27000000
+the current rsi is 33.0860674496946
+candle closed at 3147.47000000
+the current rsi is 27.081209162748916
+It is oversold, but you already own it, nothing to do.
+candle closed at 3152.63000000
+the current rsi is 32.82279570713473
+candle closed at 3160.41000000
+the current rsi is 40.43791836923669
+candle closed at 3165.78000000
+the current rsi is 45.06673288792848
+candle closed at 3163.69000000
+the current rsi is 43.645085335140735
+candle closed at 3157.41000000
+the current rsi is 39.60252268508571
+candle closed at 3158.68000000
+the current rsi is 40.7967735063076
+candle closed at 3165.99000000
+the current rsi is 47.26087290462519
+candle closed at 3168.46000000
+the current rsi is 49.276169416290514
+candle closed at 3171.53000000
+the current rsi is 51.74436816512168
+candle closed at 3172.66000000
+the current rsi is 52.65752174126267
+candle closed at 3170.01000000
+the current rsi is 50.25573965715883
+candle closed at 3169.85000000
+the current rsi is 50.10713529723674
+candle closed at 3173.80000000
+the current rsi is 53.743601024224716
+candle closed at 3170.91000000
+the current rsi is 50.82481476409424
+candle closed at 3171.43000000
+the current rsi is 51.33692710845239
+candle closed at 3166.81000000
+the current rsi is 46.685126460283364
+candle closed at 3165.00000000
+the current rsi is 44.96604216997185
+candle closed at 3168.49000000
+the current rsi is 48.87518816275209
+candle closed at 3162.72000000
+the current rsi is 43.387932798033724
+candle closed at 3165.36000000
+the current rsi is 46.355526972466805
+candle closed at 3165.27000000
+the current rsi is 46.26648694472029
+candle closed at 3169.03000000
+the current rsi is 50.540750566673466
+candle closed at 3169.96000000
+the current rsi is 51.566963662609034
+candle closed at 3177.01000000
+the current rsi is 58.5825536731694
+candle closed at 3176.45000000
+the current rsi is 57.865542167791475
+candle closed at 3174.47000000
+the current rsi is 55.28888009311365
+candle closed at 3179.99000000
+the current rsi is 60.561392195626865
+candle closed at 3177.21000000
+the current rsi is 56.9208677547506
+candle closed at 3177.74000000
+the current rsi is 57.44606636690934
+candle closed at 3180.00000000
+the current rsi is 59.7021527408804
+candle closed at 3180.94000000
+the current rsi is 60.63693196046442
+candle closed at 3179.34000000
+the current rsi is 58.1637481190026
+candle closed at 3174.64000000
+the current rsi is 51.51668708402553
+candle closed at 3176.23000000
+the current rsi is 53.454616025662304
+candle closed at 3176.72000000
+the current rsi is 54.06398801618322
+candle closed at 3181.60000000
+the current rsi is 59.71992505314768
+candle closed at 3178.74000000
+the current rsi is 55.413676096265064
+candle closed at 3175.57000000
+the current rsi is 51.02213994617703
+candle closed at 3174.82000000
+the current rsi is 50.01227614449903
+candle closed at 3171.02000000
+the current rsi is 45.1375610204869
+candle closed at 3173.53000000
+the current rsi is 48.69476760641254
+candle closed at 3175.57000000
+the current rsi is 51.450036648975505
+candle closed at 3177.69000000
+the current rsi is 54.20257746178688
+candle closed at 3179.74000000
+the current rsi is 56.7557264024939
+candle closed at 3176.66000000
+the current rsi is 52.05982116314472
+candle closed at 3174.42000000
+the current rsi is 48.89152886676605
+candle closed at 3173.48000000
+the current rsi is 47.582836950511485
+candle closed at 3172.12000000
+the current rsi is 45.677794464006794
+candle closed at 3165.83000000
+the current rsi is 38.08349742519239
+candle closed at 3160.81000000
+the current rsi is 33.32192598792501
+candle closed at 3165.73000000
+the current rsi is 41.09529893260146
+candle closed at 3163.93000000
+the current rsi is 39.290590294837976
+candle closed at 3166.69000000
+the current rsi is 43.39535515024805
+candle closed at 3165.39000000
+the current rsi is 41.95639299716753
+candle closed at 3165.98000000
+the current rsi is 42.882096119213486
+candle closed at 3159.36000000
+the current rsi is 35.95344750070527
+candle closed at 3161.17000000
+the current rsi is 38.862077486024916
+candle closed at 3153.24000000
+the current rsi is 32.00433955114833
+candle closed at 3149.42000000
+the current rsi is 29.3202477468274
+It is oversold, but you already own it, nothing to do.
+candle closed at 3152.64000000
+the current rsi is 34.32053864970912
+candle closed at 3157.24000000
+the current rsi is 40.767391459958965
+candle closed at 3154.47000000
+the current rsi is 38.32768602656516
+candle closed at 3151.55000000
+the current rsi is 35.88943268057406
+candle closed at 3153.26000000
+the current rsi is 38.362353543028604
+candle closed at 3155.66000000
+the current rsi is 41.757957345176024
+candle closed at 3157.80000000
+the current rsi is 44.68418105711005
+candle closed at 3163.35000000
+the current rsi is 51.49117790301684
+candle closed at 3160.47000000
+the current rsi is 48.17803995813685
+candle closed at 3160.89000000
+the current rsi is 48.69647622326328
+candle closed at 3155.16000000
+the current rsi is 42.45608901112589
+candle closed at 3150.01000000
+the current rsi is 37.77107745551835
+candle closed at 3151.28000000
+the current rsi is 39.54281654574787
+candle closed at 3147.82000000
+the current rsi is 36.49429333869096
+candle closed at 3143.23000000
+the current rsi is 32.873609769416255
+candle closed at 3139.24000000
+the current rsi is 30.079866992108062
+candle closed at 3146.73000000
+the current rsi is 40.33119173875069
+candle closed at 3146.40000000
+the current rsi is 40.05256366615209
+candle closed at 3151.98000000
+the current rsi is 46.751366908733814
+candle closed at 3153.28000000
+the current rsi is 48.20354695269962
+candle closed at 3150.94000000
+the current rsi is 45.7832121349651
+candle closed at 3154.00000000
+the current rsi is 49.363749763932105
+candle closed at 3156.12000000
+the current rsi is 51.74161042122868
+candle closed at 3151.97000000
+the current rsi is 47.08075919535499
+candle closed at 3150.15000000
+the current rsi is 45.15951510971531
+candle closed at 3146.53000000
+the current rsi is 41.529429116035
+candle closed at 3148.38000000
+the current rsi is 44.00658010021488
+candle closed at 3151.52000000
+the current rsi is 48.03098984406767
+candle closed at 3150.12000000
+the current rsi is 46.4287224219525
+candle closed at 3146.99000000
+the current rsi is 42.976891970973995
+candle closed at 3147.18000000
+the current rsi is 43.25269681930493
+candle closed at 3141.53000000
+the current rsi is 37.45170635696732
+candle closed at 3142.20000000
+the current rsi is 38.50497696971976
+candle closed at 3139.25000000
+the current rsi is 35.6578213697584
+candle closed at 3136.55000000
+the current rsi is 33.23554563265785
+candle closed at 3132.65000000
+the current rsi is 30.059173776025634
+candle closed at 3127.24000000
+the current rsi is 26.303715309573093
+It is oversold, but you already own it, nothing to do.
+candle closed at 3136.33000000
+the current rsi is 39.892124178569595
+candle closed at 3140.00000000
+the current rsi is 44.3532995376354
+candle closed at 3140.68000000
+the current rsi is 45.16538225203181
+candle closed at 3140.00000000
+the current rsi is 44.46654045191733
+candle closed at 3136.87000000
+the current rsi is 41.29892780342362
+candle closed at 3142.94000000
+the current rsi is 48.90112456122434
+candle closed at 3149.12000000
+the current rsi is 55.25478676114607
+candle closed at 3147.96000000
+the current rsi is 53.900046261040124
+candle closed at 3146.51000000
+the current rsi is 52.177909725571304
+candle closed at 3144.09000000
+the current rsi is 49.34425404538184
+candle closed at 3148.70000000
+the current rsi is 54.42215715533562
+candle closed at 3149.99000000
+the current rsi is 55.7586228049299
+candle closed at 3150.72000000
+the current rsi is 56.53533162663078
+candle closed at 3148.79000000
+the current rsi is 53.84388884523169
+candle closed at 3148.81000000
+the current rsi is 53.868397592742525
+candle closed at 3152.68000000
+the current rsi is 58.46437904561266
+candle closed at 3156.43000000
+the current rsi is 62.375942196103885
+candle closed at 3156.79000000
+the current rsi is 62.738722165221446
+candle closed at 3161.33000000
+the current rsi is 67.053206143432
+candle closed at 3163.27000000
+the current rsi is 68.71995091859588
+candle closed at 3159.29000000
+the current rsi is 61.811348679635515
+candle closed at 3168.99000000
+the current rsi is 69.78421635275735
+candle closed at 3166.49000000
+the current rsi is 65.96190231913421
+candle closed at 3168.50000000
+the current rsi is 67.50307790428054
+candle closed at 3169.26000000
+the current rsi is 68.09137559065591
+candle closed at 3170.38000000
+the current rsi is 68.98252488466763
+candle closed at 3167.48000000
+the current rsi is 63.99853580573568
+candle closed at 3166.10000000
+the current rsi is 61.713545989727066
+candle closed at 3163.21000000
+the current rsi is 57.11453628951868
+candle closed at 3164.37000000
+the current rsi is 58.45288572102783
+candle closed at 3165.55000000
+the current rsi is 59.82632563639496
+candle closed at 3168.55000000
+the current rsi is 63.160627781618736
+candle closed at 3173.02000000
+the current rsi is 67.49023218326266
+candle closed at 3170.00000000
+the current rsi is 62.1737184386537
+candle closed at 3169.96000000
+the current rsi is 62.10393652424771
+candle closed at 3172.26000000
+the current rsi is 64.56658050629787
+candle closed at 3175.01000000
+the current rsi is 67.30254829828503
+candle closed at 3173.50000000
+the current rsi is 64.36376028215774
+candle closed at 3175.43000000
+the current rsi is 66.38419715109474
+candle closed at 3173.20000000
+the current rsi is 62.00953870171752
+candle closed at 3167.35000000
+the current rsi is 52.27700665195897
+candle closed at 3167.98000000
+the current rsi is 53.13016594288269
+candle closed at 3170.15000000
+the current rsi is 56.04500481691878
+candle closed at 3170.96000000
+the current rsi is 57.11705642835331
+candle closed at 3167.64000000
+the current rsi is 51.565619096203186
+candle closed at 3166.21000000
+the current rsi is 49.34112475000948
+candle closed at 3164.78000000
+the current rsi is 47.15062500336868
+candle closed at 3168.02000000
+the current rsi is 52.31598542215219
+candle closed at 3169.28000000
+the current rsi is 54.19107115622225
+candle closed at 3170.00000000
+the current rsi is 55.27340390618017
+candle closed at 3174.47000000
+the current rsi is 61.37494431357497In position: True
+==============================
+
+opened connection
+candle closed at 17122.50000000
+candle closed at 17128.26000000
+candle closed at 17146.57000000
+candle closed at 17154.97000000
+candle closed at 17125.58000000
+candle closed at 17111.43000000
+candle closed at 17091.53000000
+candle closed at 17111.41000000
+candle closed at 17110.71000000
+candle closed at 17142.48000000
+candle closed at 17132.81000000
+candle closed at 17134.98000000
+candle closed at 17130.59000000
+candle closed at 17144.30000000
+candle closed at 17165.19000000
+the current rsi is 60.72128183233679
+candle closed at 17167.76000000
+the current rsi is 61.259836518491305
+candle closed at 17154.81000000
+the current rsi is 57.01752830325149
+candle closed at 17110.72000000
+the current rsi is 45.47175312272755
+candle closed at 17120.37000000
+the current rsi is 47.95579540108291
+candle closed at 17083.84000000
+the current rsi is 40.44465871116234
+candle closed at 17068.21000000
+the current rsi is 37.72223351692855
+candle closed at 17087.61000000
+the current rsi is 42.86312785179843
+candle closed at 17079.75000000
+the current rsi is 41.37298466816793
+candle closed at 17119.09000000
+the current rsi is 50.62520451224676
+candle closed at 17127.61000000
+the current rsi is 52.37805630945196
+candle closed at 17096.29000000
+the current rsi is 45.92382163795317
+candle closed at 17083.00000000
+the current rsi is 43.475716673681916
+candle closed at 17104.58000000
+the current rsi is 48.295540439993594
+candle closed at 17079.28000000
+the current rsi is 43.60145646045553
+candle closed at 17038.00000000
+the current rsi is 37.24124109911393
+candle closed at 17066.50000000
+the current rsi is 43.38191271308073
+candle closed at 17052.24000000
+the current rsi is 41.20923443698008
+candle closed at 16988.71000000
+the current rsi is 33.225556594233815
+candle closed at 16946.59000000
+the current rsi is 29.188095041359773
+It is oversold, but you already own it, nothing to do.
+candle closed at 16977.36000000
+the current rsi is 35.367035728704224
+candle closed at 17042.25000000
+the current rsi is 46.057031882074774
+candle closed at 17027.23000000
+the current rsi is 44.23334570651127
+candle closed at 17053.13000000
+the current rsi is 48.053041682715765
+candle closed at 17117.23000000
+the current rsi is 56.072322135050086
+candle closed at 17109.75000000
+the current rsi is 55.005216510341356
+candle closed at 17052.28000000
+the current rsi is 47.52215557922019
+candle closed at 17048.75000000
+the current rsi is 47.09831845281292
+candle closed at 17053.88000000
+the current rsi is 47.82656699175647
+candle closed at 17092.35000000
+the current rsi is 53.046529110741204
+candle closed at 17099.71000000
+the current rsi is 53.99487007388672
+candle closed at 17068.15000000
+the current rsi is 49.388425469372045
+candle closed at 17091.37000000
+the current rsi is 52.59296788327457
+candle closed at 17076.25000000
+the current rsi is 50.35707530937819
+candle closed at 17017.35000000
+the current rsi is 42.73526936821915
+candle closed at 17048.81000000
+the current rsi is 47.32152918733389
+candle closed at 17044.62000000
+the current rsi is 46.784114129387255
+candle closed at 17054.06000000
+the current rsi is 48.211134307815
+candle closed at 17052.45000000
+the current rsi is 47.974846681963115
+candle closed at 17076.20000000
+the current rsi is 51.73293467418764
+candle closed at 17077.58000000
+the current rsi is 51.95012774662511
+candle closed at 17106.07000000
+the current rsi is 56.320064115229826
+candle closed at 17112.75000000
+the current rsi is 57.30062174592825
+candle closed at 17108.93000000
+the current rsi is 56.519247511525386
+candle closed at 17152.18000000
+the current rsi is 62.71802558758202
+candle closed at 17160.76000000
+the current rsi is 63.81998017396224
+candle closed at 17135.50000000
+the current rsi is 58.35171969090227
+candle closed at 17174.13000000
+the current rsi is 63.502070407422394
+candle closed at 17165.09000000
+the current rsi is 61.58283685833721
+candle closed at 17180.79000000
+the current rsi is 63.6382566944796
+candle closed at 17199.60000000
+the current rsi is 65.98628408200065
+candle closed at 17188.49000000
+the current rsi is 63.382886934008596
+candle closed at 17188.50000000
+the current rsi is 63.38428724619759
+candle closed at 17191.75000000
+the current rsi is 63.867904692671054
+candle closed at 17171.32000000
+the current rsi is 58.625941285465
+candle closed at 17168.15000000
+the current rsi is 57.832780979063024
+candle closed at 17181.74000000
+the current rsi is 60.31178691558613
+candle closed at 17181.00000000
+the current rsi is 60.10457863341284
+candle closed at 17218.42000000
+the current rsi is 66.39238738386469
+candle closed at 17178.91000000
+the current rsi is 56.3023905038917
+candle closed at 17149.96000000
+the current rsi is 50.27349140629895
+candle closed at 17183.78000000
+the current rsi is 56.177153391881276
+candle closed at 17178.75000000
+the current rsi is 55.128839284373
+candle closed at 17183.78000000
+the current rsi is 56.01281943013851
+candle closed at 17210.41000000
+the current rsi is 60.4546178791996
+candle closed at 17210.41000000
+the current rsi is 60.4546178791996
+candle closed at 17203.77000000
+the current rsi is 58.7393646468531
+candle closed at 17199.99000000
+the current rsi is 57.73510245990015
+candle closed at 17199.96000000
+the current rsi is 57.72666700539576
+candle closed at 17192.51000000
+the current rsi is 55.55587487235364
+candle closed at 17247.64000000
+the current rsi is 65.8038011560661
+candle closed at 17321.80000000
+the current rsi is 74.36628248058878
+Overbought! Sell! Sell! Sell!
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 26834426, 'orderListId': -1, 'clientOrderId': '9IT5fbvHJxevn9n5OG0SfV', 'transactTime': 1620052987784, 'price': '0.00000000', 'origQty': '0.00790000', 'executedQty': '0.00790000', 'cummulativeQuoteQty': '136.74212700', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'fills': [{'price': '17309.13000000', 'qty': '0.00790000', 'commission': '0.13674213', 'commissionAsset': 'BRL', 'tradeId': 1361509}], '_id': ObjectId('60900bfb099fcadf818a2ae4')}
+candle closed at 17338.96000000
+the current rsi is 75.8717776803218
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17326.27000000
+the current rsi is 72.48158423323498
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17365.01000000
+the current rsi is 76.00630015040716
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17353.02000000
+the current rsi is 72.89430754330282
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17305.38000000
+the current rsi is 62.02731861206323
+candle closed at 17300.00000000
+the current rsi is 60.92275595285718
+candle closed at 17311.15000000
+the current rsi is 62.416518721027984
+candle closed at 17296.37000000
+the current rsi is 59.186785103013825
+candle closed at 17273.15000000
+the current rsi is 54.422294500613255
+candle closed at 17268.14000000
+the current rsi is 53.42303005649494
+candle closed at 17287.85000000
+the current rsi is 56.784840977580984
+candle closed at 17283.22000000
+the current rsi is 55.76658918233272
+candle closed at 17295.90000000
+the current rsi is 57.98843819801915
+candle closed at 17260.23000000
+the current rsi is 50.32970350085294
+candle closed at 17288.58000000
+the current rsi is 55.37439244368581
+candle closed at 17277.50000000
+the current rsi is 53.104324230873736
+candle closed at 17248.00000000
+the current rsi is 47.51881845121912
+candle closed at 17224.60000000
+the current rsi is 43.601303879748684
+candle closed at 17269.23000000
+the current rsi is 51.76847562061643
+candle closed at 17257.20000000
+the current rsi is 49.680100484555474
+candle closed at 17258.91000000
+the current rsi is 49.98893399305273
+candle closed at 17269.42000000
+the current rsi is 51.941242633357795
+candle closed at 17269.80000000
+the current rsi is 52.014181805996174
+candle closed at 17250.56000000
+the current rsi is 48.038734443129094
+candle closed at 17269.80000000
+the current rsi is 51.990373312115324
+candle closed at 17258.52000000
+the current rsi is 49.60837606945466
+candle closed at 17258.52000000
+the current rsi is 49.608376069454664
+candle closed at 17271.34000000
+the current rsi is 52.478226424557526
+candle closed at 17320.19000000
+the current rsi is 61.48034135646373
+candle closed at 17316.21000000
+the current rsi is 60.4751880000995
+candle closed at 17272.75000000
+the current rsi is 50.72318349448533
+candle closed at 17269.98000000
+the current rsi is 50.16789676999775
+candle closed at 17275.00000000
+the current rsi is 51.21032777395844
+candle closed at 17299.97000000
+the current rsi is 56.12663033035824
+candle closed at 17284.65000000
+the current rsi is 52.623053445862176
+candle closed at 17306.28000000
+the current rsi is 56.72993923651476
+candle closed at 17280.02000000
+the current rsi is 50.9549064652855
+candle closed at 17301.78000000
+the current rsi is 55.0392695787105
+candle closed at 17292.77000000
+the current rsi is 53.06858608774528
+candle closed at 17320.90000000
+the current rsi is 58.111366260314526
+candle closed at 17322.39000000
+the current rsi is 58.36654826008203
+candle closed at 17306.43000000
+the current rsi is 54.53428969186929
+candle closed at 17299.46000000
+the current rsi is 52.90072261321973
+candle closed at 17316.24000000
+the current rsi is 56.2949635003299
+candle closed at 17312.28000000
+the current rsi is 55.2824436155527
+candle closed at 17338.63000000
+the current rsi is 60.38787326312756
+candle closed at 17311.05000000
+the current rsi is 53.50251200516306
+candle closed at 17338.01000000
+the current rsi is 58.4854721034926
+candle closed at 17303.80000000
+the current rsi is 51.014615419654305
+candle closed at 17262.31000000
+the current rsi is 43.72035694948514
+candle closed at 17237.34000000
+the current rsi is 40.01235123556815
+candle closed at 17219.00000000
+the current rsi is 37.49689115214853
+candle closed at 17199.96000000
+the current rsi is 35.034422996498556
+candle closed at 17189.00000000
+the current rsi is 33.66395532232885
+candle closed at 17205.92000000
+the current rsi is 37.71469128915651
+candle closed at 17209.99000000
+the current rsi is 38.68460396418172
+candle closed at 17200.91000000
+the current rsi is 37.28949032800249
+candle closed at 17213.50000000
+the current rsi is 40.4939661451873
+candle closed at 17199.44000000
+the current rsi is 38.14947036735386
+candle closed at 17157.28000000
+the current rsi is 32.14036395501493
+candle closed at 17108.13000000
+the current rsi is 26.83382284160108
+Oversold! Buy! Buy! Buy!
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 26852042, 'orderListId': -1, 'clientOrderId': '3KxyQGZCVaSNUHxQCkZmYk', 'transactTime': 1620056641029, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '136.99520000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'fills': [{'price': '17124.40000000', 'qty': '0.00800000', 'commission': '0.00000800', 'commissionAsset': 'ETH', 'tradeId': 1363258}], '_id': ObjectId('60901a41099fcadf818a2ae5')}
+candle closed at 17121.75000000
+the current rsi is 30.269571199723522
+candle closed at 17120.06000000
+the current rsi is 30.080817748063982
+candle closed at 17168.44000000
+the current rsi is 41.354965503536725
+candle closed at 17156.60000000
+the current rsi is 39.669147188670635
+candle closed at 17176.11000000
+the current rsi is 43.7390183468408
+candle closed at 17161.81000000
+the current rsi is 41.52774226528813
+candle closed at 17207.33000000
+the current rsi is 50.164718958611
+candle closed at 17208.78000000
+the current rsi is 50.41596785175797
+candle closed at 17217.05000000
+the current rsi is 51.90528367472329
+candle closed at 17201.55000000
+the current rsi is 48.93836726268418
+candle closed at 17208.98000000
+the current rsi is 50.40189390976085
+candle closed at 17223.82000000
+the current rsi is 53.28207161172149
+candle closed at 17218.41000000
+the current rsi is 52.09440828162728
+candle closed at 17238.19000000
+the current rsi is 55.95965044681341
+candle closed at 17228.20000000
+the current rsi is 53.607111661437735
+candle closed at 17180.33000000
+the current rsi is 44.05065685084303
+candle closed at 17254.70000000
+the current rsi is 56.90432599874234
+candle closed at 17249.68000000
+the current rsi is 55.96961984709683
+candle closed at 17278.76000000
+the current rsi is 60.06213272776629
+candle closed at 17300.00000000
+the current rsi is 62.783095859716234
+candle closed at 17299.04000000
+the current rsi is 62.575583437637384
+candle closed at 17251.03000000
+the current rsi is 53.11969940349892
+candle closed at 17212.46000000
+the current rsi is 46.97792729804795
+candle closed at 17245.55000000
+the current rsi is 52.095310403131855
+candle closed at 17229.18000000
+the current rsi is 49.547597834349936
+candle closed at 17208.83000000
+the current rsi is 46.50297859012133
+candle closed at 17201.00000000
+the current rsi is 45.348319927873625
+candle closed at 17221.00000000
+the current rsi is 48.842423139262245
+candle closed at 17191.02000000
+the current rsi is 44.273037166133285
+candle closed at 17211.61000000
+the current rsi is 47.879477913445285
+candle closed at 17179.98000000
+the current rsi is 43.24908466670942
+candle closed at 17222.87000000
+the current rsi is 50.27190885650913
+candle closed at 17242.70000000
+the current rsi is 53.158098059302716
+candle closed at 17253.32000000
+the current rsi is 54.67530352728329
+candle closed at 17259.53000000
+the current rsi is 55.58130200865406
+candle closed at 17284.70000000
+the current rsi is 59.145854355299846
+candle closed at 17282.47000000
+the current rsi is 58.69642939717599
+candle closed at 17298.76000000
+the current rsi is 61.02616645455215
+candle closed at 17285.79000000
+the current rsi is 58.21085242328425
+candle closed at 17285.75000000
+the current rsi is 58.201934722924854
+candle closed at 17294.25000000
+the current rsi is 59.61767583906781
+candle closed at 17300.48000000
+the current rsi is 60.66918819442586
+candle closed at 17321.99000000
+the current rsi is 64.14101541586992
+candle closed at 17311.13000000
+the current rsi is 61.203529715859375
+candle closed at 17316.14000000
+the current rsi is 62.06661577950355
+candle closed at 17327.05000000
+the current rsi is 63.947528482133755
+candle closed at 17333.34000000
+the current rsi is 65.02430116314753
+candle closed at 17330.89000000
+the current rsi is 64.2197425865638
+candle closed at 17359.98000000
+the current rsi is 69.10738055798859
+candle closed at 17376.58000000
+the current rsi is 71.49987727111127
+Overbought! Sell! Sell! Sell!
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 26865256, 'orderListId': -1, 'clientOrderId': 'yqlCD0kpqbaiJbTgUqVxY1', 'transactTime': 1620059640818, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '138.95736000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'fills': [{'price': '17369.67000000', 'qty': '0.00800000', 'commission': '0.13895736', 'commissionAsset': 'BRL', 'tradeId': 1364692}], '_id': ObjectId('609025f8099fcadf818a2ae6')}
+candle closed at 17417.75000000
+the current rsi is 76.38468822889408
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17419.99000000
+the current rsi is 76.6194929319576
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17442.00000000
+the current rsi is 78.84524977583489
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17435.63000000
+the current rsi is 76.57326696493035
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17410.79000000
+the current rsi is 68.30730332003597
+candle closed at 17600.00000000
+the current rsi is 83.19144638435975
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17538.46000000
+the current rsi is 71.43970132574088
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17576.86000000
+the current rsi is 73.91575665579455
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17604.73000000
+the current rsi is 75.57111375359817
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17645.00000000
+the current rsi is 77.76668262103563
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17649.98000000
+the current rsi is 78.0296565166955
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17638.59000000
+the current rsi is 75.82075901096727
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17615.40000000
+the current rsi is 71.38964619624329
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17698.75000000
+the current rsi is 76.66767975347403
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17668.77000000
+the current rsi is 71.55443937559686
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17686.86000000
+the current rsi is 72.73602366404603
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17764.11000000
+the current rsi is 77.10885165541461
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17729.51000000
+the current rsi is 71.57181352764664
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17718.73000000
+the current rsi is 69.88796500986149
+candle closed at 17707.24000000
+the current rsi is 68.05025613530636
+candle closed at 17700.36000000
+the current rsi is 66.915624351427
+candle closed at 17676.98000000
+the current rsi is 63.067312505674835
+candle closed at 17717.11000000
+the current rsi is 66.61616748215157
+candle closed at 17761.49000000
+the current rsi is 70.04431440327416
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17770.27000000
+the current rsi is 70.68566453503121
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17745.35000000
+the current rsi is 66.34400451937877
+candle closed at 17718.76000000
+the current rsi is 61.970171983884015
+candle closed at 17726.34000000
+the current rsi is 62.724600894380146
+candle closed at 17715.43000000
+the current rsi is 60.85340576280841
+candle closed at 17751.93000000
+the current rsi is 64.65259957457589
+candle closed at 17789.63000000
+the current rsi is 68.0966315400814
+candle closed at 17774.71000000
+the current rsi is 65.3815849013099
+candle closed at 17732.17000000
+the current rsi is 58.250367448271476
+candle closed at 17775.99000000
+the current rsi is 62.75663265211682
+candle closed at 17763.48000000
+the current rsi is 60.740980853723045
+candle closed at 17783.48000000
+the current rsi is 62.798184932565505
+candle closed at 17844.32000000
+the current rsi is 68.24876203873758
+candle closed at 17937.57000000
+the current rsi is 74.43203982575996
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18004.05000000
+the current rsi is 77.75761188932452
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17961.74000000
+the current rsi is 71.39312532294205
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17965.22000000
+the current rsi is 71.59903391799523
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 17950.00000000
+the current rsi is 69.25128321618035
+candle closed at 17914.99000000
+the current rsi is 64.0487194772647
+candle closed at 17922.31000000
+the current rsi is 64.64674896010837
+candle closed at 17967.39000000
+the current rsi is 68.15948724476597
+candle closed at 17926.40000000
+the current rsi is 62.115860465090144
+candle closed at 17900.01000000
+the current rsi is 58.51829159783858
+candle closed at 17900.22000000
+the current rsi is 58.53887003232284
+candle closed at 17858.00000000
+the current rsi is 52.861126989599995
+candle closed at 17839.41000000
+the current rsi is 50.536862644271594
+candle closed at 17879.99000000
+the current rsi is 55.170580183564766
+candle closed at 17776.03000000
+the current rsi is 43.839892077073245
+candle closed at 17780.43000000
+the current rsi is 44.36072839372068
+candle closed at 17810.38000000
+the current rsi is 47.90248847093798
+candle closed at 17800.00000000
+the current rsi is 46.79079929640303
+candle closed at 17848.36000000
+the current rsi is 52.340257847717886
+candle closed at 17780.44000000
+the current rsi is 45.20873468112838
+candle closed at 17802.36000000
+the current rsi is 47.68610566338203
+candle closed at 17800.01000000
+the current rsi is 47.43846478368047
+candle closed at 17830.06000000
+the current rsi is 50.9464836740842
+candle closed at 17869.98000000
+the current rsi is 55.22200668859806
+candle closed at 17840.46000000
+the current rsi is 51.63776686936844
+candle closed at 17823.84000000
+the current rsi is 49.68257959129846
+candle closed at 17857.80000000
+the current rsi is 53.552521106831755
+candle closed at 17836.95000000
+the current rsi is 50.96104380438129
+candle closed at 17846.43000000
+the current rsi is 52.09612031810131
+candle closed at 17882.02000000
+the current rsi is 56.19540365162538
+candle closed at 17907.60000000
+the current rsi is 58.916605776367234
+candle closed at 17903.34000000
+the current rsi is 58.267432338571076
+candle closed at 17885.71000000
+the current rsi is 55.5399861775581
+candle closed at 17857.06000000
+the current rsi is 51.33467515504058
+candle closed at 17911.98000000
+the current rsi is 57.91320428018847
+candle closed at 17921.61000000
+the current rsi is 58.96078774058866
+candle closed at 17921.62000000
+the current rsi is 58.96193006141435
+candle closed at 17921.62000000
+the current rsi is 58.96193006141435
+candle closed at 17922.86000000
+the current rsi is 59.12554843413993
+candle closed at 17881.35000000
+the current rsi is 51.695171376674956
+candle closed at 17911.08000000
+the current rsi is 55.963656575029184
+candle closed at 17911.67000000
+the current rsi is 56.046663985012856
+candle closed at 17900.00000000
+the current rsi is 53.88313845447208
+candle closed at 17933.08000000
+the current rsi is 58.744655402321975
+candle closed at 17920.00000000
+the current rsi is 56.22095829158417
+candle closed at 17900.74000000
+the current rsi is 52.63522042033263
+candle closed at 17929.97000000
+the current rsi is 57.106473603815985
+candle closed at 17919.75000000
+the current rsi is 55.146289765638926
+candle closed at 17912.71000000
+the current rsi is 53.77694122151446
+candle closed at 17883.39000000
+the current rsi is 48.38791155635352
+candle closed at 17895.83000000
+the current rsi is 50.647676065420136
+candle closed at 17898.73000000
+the current rsi is 51.18425543318601
+candle closed at 17980.00000000
+the current rsi is 63.24469920115002
+candle closed at 17962.57000000
+the current rsi is 59.83058212791074
+candle closed at 18035.04000000
+the current rsi is 67.6499956215058
+candle closed at 18029.62000000
+the current rsi is 66.60571825356767
+candle closed at 18100.66000000
+the current rsi is 72.58020549855641
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18085.31000000
+the current rsi is 69.67937156652266
+candle closed at 18048.62000000
+the current rsi is 63.17949867083576
+candle closed at 18035.68000000
+the current rsi is 61.01764002784438
+candle closed at 18067.36000000
+the current rsi is 64.24347402745576
+candle closed at 18073.41000000
+the current rsi is 64.84182377371476
+candle closed at 18040.00000000
+the current rsi is 58.97290498493511
+candle closed at 18028.51000000
+the current rsi is 57.06013005038886
+candle closed at 18023.01000000
+the current rsi is 56.12176884305615
+candle closed at 18006.56000000
+the current rsi is 53.298574481683126
+candle closed at 18016.41000000
+the current rsi is 54.76591283559783
+candle closed at 18034.71000000
+the current rsi is 57.441308051903796
+candle closed at 17950.00000000
+the current rsi is 44.36161064737536
+candle closed at 17946.92000000
+the current rsi is 43.96957428157626
+candle closed at 17955.79000000
+the current rsi is 45.46428666858107
+candle closed at 17946.68000000
+the current rsi is 44.16125620073916
+candle closed at 17973.71000000
+the current rsi is 48.84590409994509
+candle closed at 17952.22000000
+the current rsi is 45.57236216698842
+candle closed at 17933.72000000
+the current rsi is 42.906528027562565
+candle closed at 17922.11000000
+the current rsi is 41.274749528340784
+candle closed at 17949.82000000
+the current rsi is 46.50409530389828
+candle closed at 17961.39000000
+the current rsi is 48.56365369673399
+candle closed at 17951.62000000
+the current rsi is 46.920924332573634
+candle closed at 17950.01000000
+the current rsi is 46.64093729089869
+candle closed at 17985.00000000
+the current rsi is 53.179868278556505
+candle closed at 18005.10000000
+the current rsi is 56.47924411603611
+candle closed at 18059.99000000
+the current rsi is 63.95030976237891
+candle closed at 18059.94000000
+the current rsi is 63.93954220729506
+candle closed at 18030.00000000
+the current rsi is 57.67709206961806
+candle closed at 18059.90000000
+the current rsi is 61.71038557645099
+candle closed at 18036.05000000
+the current rsi is 57.04086484805343
+candle closed at 18050.50000000
+the current rsi is 59.062041958542075
+candle closed at 18079.43000000
+the current rsi is 62.83236875937239
+candle closed at 18084.45000000
+the current rsi is 63.46121844271168
+candle closed at 18089.00000000
+the current rsi is 64.05484683495854
+candle closed at 18091.73000000
+the current rsi is 64.42827022863777
+candle closed at 18107.07000000
+the current rsi is 66.53222053307329
+candle closed at 18069.66000000
+the current rsi is 57.58680518386914
+candle closed at 18070.00000000
+the current rsi is 57.64254611649614
+candle closed at 18065.76000000
+the current rsi is 56.642800330041545
+candle closed at 18076.94000000
+the current rsi is 58.67791678152341
+candle closed at 18094.86000000
+the current rsi is 61.775023384634544
+candle closed at 18132.47000000
+the current rsi is 67.31243194777267
+candle closed at 18092.21000000
+the current rsi is 57.679928494266186
+candle closed at 18086.85000000
+the current rsi is 56.520286461254166
+candle closed at 18090.00000000
+the current rsi is 57.066578886875696
+candle closed at 18152.71000000
+the current rsi is 66.17738190690649
+candle closed at 18130.43000000
+the current rsi is 61.20768202429515
+candle closed at 18165.94000000
+the current rsi is 65.63695449756347
+candle closed at 18167.95000000
+the current rsi is 65.87447226973453
+candle closed at 18195.77000000
+the current rsi is 69.06192333992082
+candle closed at 18206.05000000
+the current rsi is 70.17066014682186
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18190.42000000
+the current rsi is 66.28131219295254
+candle closed at 18118.35000000
+the current rsi is 51.975819780683494
+candle closed at 18108.58000000
+the current rsi is 50.388133436354686
+candle closed at 18130.27000000
+the current rsi is 53.76478258394568
+candle closed at 18139.84000000
+the current rsi is 55.213179759427774
+candle closed at 18148.02000000
+the current rsi is 56.46847166736357
+candle closed at 18097.68000000
+the current rsi is 47.622401452015886
+candle closed at 18118.19000000
+the current rsi is 50.99105853421027
+candle closed at 18103.10000000
+the current rsi is 48.51860689168982
+candle closed at 18098.17000000
+the current rsi is 47.70476894068282
+candle closed at 18100.00000000
+the current rsi is 48.05308876994648
+candle closed at 18095.81000000
+the current rsi is 47.27664435137706
+candle closed at 18031.11000000
+the current rsi is 37.26391484961617
+candle closed at 18026.36000000
+the current rsi is 36.65021449601433
+candle closed at 17970.26000000
+the current rsi is 30.302706590274305
+candle closed at 17926.29000000
+the current rsi is 26.4378673286698
+Oversold! Buy! Buy! Buy!
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 26915849, 'orderListId': -1, 'clientOrderId': 'chzCBkqIKwf076869iPglc', 'transactTime': 1620069304491, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '143.45365650', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'fills': [{'price': '17923.07000000', 'qty': '0.00061000', 'commission': '0.00000061', 'commissionAsset': 'ETH', 'tradeId': 1372598}, {'price': '17932.42000000', 'qty': '0.00739000', 'commission': '0.00000739', 'commissionAsset': 'ETH', 'tradeId': 1372599}], '_id': ObjectId('60904bb8099fcadf818a2ae7')}
+candle closed at 17970.26000000
+the current rsi is 35.321572762462765
+candle closed at 17970.18000000
+the current rsi is 35.31321682224997
+candle closed at 17971.41000000
+the current rsi is 35.56560722618817
+candle closed at 17942.09000000
+the current rsi is 32.32762390763659
+candle closed at 17850.00000000
+the current rsi is 24.71628897013211
+It is oversold, but you already own it, nothing to do.
+candle closed at 17826.06000000
+the current rsi is 23.18786391640608
+It is oversold, but you already own it, nothing to do.
+candle closed at 17846.81000000
+the current rsi is 27.37963857885168
+It is oversold, but you already own it, nothing to do.
+candle closed at 17890.13000000
+the current rsi is 35.31597634843527
+candle closed at 17867.84000000
+the current rsi is 33.29944474457029
+candle closed at 17924.97000000
+the current rsi is 42.38060515609018
+candle closed at 17950.00000000
+the current rsi is 45.8585530045496
+candle closed at 17982.65000000
+the current rsi is 50.090539449148785
+candle closed at 17942.25000000
+the current rsi is 45.36532721309076
+candle closed at 17999.99000000
+the current rsi is 52.29217057107175
+candle closed at 18000.00000000
+the current rsi is 52.29329868850944
+candle closed at 18019.23000000
+the current rsi is 54.5204258360819
+candle closed at 18052.26000000
+the current rsi is 58.13556354979852
+candle closed at 18094.83000000
+the current rsi is 62.29545432882417
+candle closed at 18100.90000000
+the current rsi is 62.86211564040438
+candle closed at 18064.77000000
+the current rsi is 57.33830647929038
+candle closed at 18059.90000000
+the current rsi is 56.6161428136824
+candle closed at 18088.22000000
+the current rsi is 59.787876745892696
+candle closed at 18103.64000000
+the current rsi is 61.44087197071283
+candle closed at 18111.40000000
+the current rsi is 62.28117282530413
+candle closed at 18105.81000000
+the current rsi is 61.245748608055116
+candle closed at 18127.90000000
+the current rsi is 63.806463063817844
+candle closed at 18125.70000000
+the current rsi is 63.35745804642763
+candle closed at 18124.91000000
+the current rsi is 63.18551163239932
+candle closed at 18099.27000000
+the current rsi is 57.711181816088185
+candle closed at 18095.25000000
+the current rsi is 56.87911349574133
+candle closed at 18025.33000000
+the current rsi is 44.78461391516297
+candle closed at 18073.03000000
+the current rsi is 52.244914923100715
+candle closed at 18083.77000000
+the current rsi is 53.75982310102412
+candle closed at 18077.54000000
+the current rsi is 52.7151731860414
+candle closed at 18076.39000000
+the current rsi is 52.51232614542932
+candle closed at 18077.21000000
+the current rsi is 52.65223115081287
+candle closed at 18066.40000000
+the current rsi is 50.53839964632941
+candle closed at 18009.31000000
+the current rsi is 41.14382214583566
+candle closed at 17951.52000000
+the current rsi is 34.21114849123529
+candle closed at 17995.64000000
+the current rsi is 42.21629039527139
+candle closed at 17989.96000000
+the current rsi is 41.5159182053786
+candle closed at 18019.23000000
+the current rsi is 46.44647490586068
+candle closed at 18048.37000000
+the current rsi is 50.88579919948345
+candle closed at 18076.42000000
+the current rsi is 54.77232102501917
+candle closed at 18076.42000000
+the current rsi is 54.77232102501917
+candle closed at 17994.71000000
+the current rsi is 43.21829438649388
+candle closed at 18019.69000000
+the current rsi is 46.905708839377226
+candle closed at 18032.00000000
+the current rsi is 48.6745805223924
+candle closed at 17998.83000000
+the current rsi is 44.38372084363877
+candle closed at 17952.51000000
+the current rsi is 39.188452636535864
+candle closed at 17978.82000000
+the current rsi is 43.25170733093875
+candle closed at 17982.22000000
+the current rsi is 43.77454124590501
+candle closed at 18018.52000000
+the current rsi is 49.16006930339803
+candle closed at 18031.34000000
+the current rsi is 50.947076353857526
+candle closed at 18047.56000000
+the current rsi is 53.188979927447086
+candle closed at 18074.42000000
+the current rsi is 56.716836114814086
+candle closed at 18025.95000000
+the current rsi is 49.47133987433159
+candle closed at 18054.87000000
+the current rsi is 53.30437079939331
+candle closed at 18094.37000000
+the current rsi is 57.99167749527052
+candle closed at 18095.42000000
+the current rsi is 58.11204608521708
+candle closed at 18051.99000000
+the current rsi is 51.53453741360098
+candle closed at 18045.01000000
+the current rsi is 50.5443483155506603 May, 21
+In position: True
+==============================
+
+Building Historical
+opened connection
+candle closed at 18099.55000000
+the current rsi is 97.5451052752242
+SIDE_SELL
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 27018448, 'orderListId': -1, 'clientOrderId': 'QgG6A73wF4Fqj6uF6T9eDr', 'transactTime': 1620090602424, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '144.63984000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'fills': [{'price': '18079.98000000', 'qty': '0.00800000', 'commission': '0.14463984', 'commissionAsset': 'BRL', 'tradeId': 1391803}], '_id': ObjectId('60909eeb4f3ddf21f673e254')}
+candle closed at 18118.57000000
+the current rsi is 97.57010719255561
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18137.44000000
+the current rsi is 97.59626331755854
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18126.42000000
+the current rsi is 96.93999166643454
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18165.20000000
+the current rsi is 97.01603396286119
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18248.51000000
+the current rsi is 97.1782610819234
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18316.42000000
+the current rsi is 97.30679571330536
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18308.51000000
+the current rsi is 96.75395566741
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18328.41000000
+the current rsi is 96.8031639226609
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18378.38000000
+the current rsi is 96.92905543566968
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18390.86000000
+the current rsi is 96.9612410831929
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18313.48000000
+the current rsi is 90.619469264082
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18386.05000000
+the current rsi is 91.20073148604921
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18309.19000000
+the current rsi is 85.18050489942908
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18303.76000000
+the current rsi is 84.7548445665959
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18308.76000000
+the current rsi is 84.83001774295205
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18296.77000000
+the current rsi is 83.7633747781194
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18284.28000000
+the current rsi is 82.59826094731032
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18187.44000000
+the current rsi is 74.00332844583907
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18261.95000000
+the current rsi is 76.06688012116308
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18254.05000000
+the current rsi is 75.38364225132379
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18166.68000000
+the current rsi is 68.09856420132378
+candle closed at 18190.87000000
+the current rsi is 68.99205141768601
+candle closed at 18256.81000000
+the current rsi is 71.34782459315274
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18255.95000000
+the current rsi is 71.27177232208642
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18221.85000000
+the current rsi is 68.1689379722058
+candle closed at 18240.16000000
+the current rsi is 68.9505892521162
+candle closed at 18177.80000000
+the current rsi is 63.25354936311729
+candle closed at 18199.35000000
+the current rsi is 64.34977365385437
+candle closed at 18155.19000000
+the current rsi is 60.37504087910356
+candle closed at 18185.03000000
+the current rsi is 62.07951057304349
+candle closed at 18138.94000000
+the current rsi is 57.93428044010275
+candle closed at 18093.58000000
+the current rsi is 54.105233758754565
+candle closed at 18112.28000000
+the current rsi is 55.41354546378038
+candle closed at 18094.92000000
+the current rsi is 53.878035583840514
+candle closed at 18089.16000000
+the current rsi is 53.34980088490023
+candle closed at 18141.15000000
+the current rsi is 57.40878387563528
+candle closed at 18177.45000000
+the current rsi is 60.02415244877659
+candle closed at 18148.47000000
+the current rsi is 57.01411639528789
+candle closed at 18199.99000000
+the current rsi is 60.77959268463683
+candle closed at 18200.00000000
+the current rsi is 60.780310821194014
+candle closed at 18209.11000000
+the current rsi is 61.472412357310844
+candle closed at 18199.99000000
+the current rsi is 60.324728725037815
+candle closed at 18247.31000000
+the current rsi is 64.0727378177904
+candle closed at 18227.00000000
+the current rsi is 61.392070719919566
+candle closed at 18214.81000000
+the current rsi is 59.77558488964008
+candle closed at 18189.20000000
+the current rsi is 56.41478164609779
+candle closed at 18155.00000000
+the current rsi is 52.194466098076155
+candle closed at 18138.64000000
+the current rsi is 50.25761701873298
+candle closed at 18142.48000000
+the current rsi is 50.71986583946837
+candle closed at 18118.76000000
+the current rsi is 47.76698963100652
+candle closed at 18145.80000000
+the current rsi is 51.251225392083185
+candle closed at 18145.80000000
+the current rsi is 51.251225392083185
+candle closed at 18161.18000000
+the current rsi is 53.30590202829385
+candle closed at 18172.70000000
+the current rsi is 54.84123529384052
+candle closed at 18180.98000000
+the current rsi is 55.96204115116906
+candle closed at 18202.40000000
+the current rsi is 58.810124107448935
+candle closed at 18179.91000000
+the current rsi is 54.8025557540063
+candle closed at 18160.70000000
+the current rsi is 51.569982191218486
+candle closed at 18148.74000000
+the current rsi is 49.60803146428205
+candle closed at 18137.51000000
+the current rsi is 47.77029880878699
+candle closed at 18134.27000000
+the current rsi is 47.22671314179488
+candle closed at 18116.52000000
+the current rsi is 44.25561851162148
+candle closed at 18055.95000000
+the current rsi is 35.94534497231777
+candle closed at 18104.33000000
+the current rsi is 44.852971400654106
+candle closed at 18092.02000000
+the current rsi is 43.20656183939844
+candle closed at 18054.26000000
+the current rsi is 38.53405458295872
+candle closed at 18068.43000000
+the current rsi is 41.107885262782325
+candle closed at 18049.99000000
+the current rsi is 38.82922350889588
+candle closed at 17938.13000000
+the current rsi is 28.50644918137155
+SIDE_BUY
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 27056025, 'orderListId': -1, 'clientOrderId': 'LIJZRgLplaC0r2sUQvFe4y', 'transactTime': 1620094743500, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '143.63472000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'fills': [{'price': '17954.34000000', 'qty': '0.00800000', 'commission': '0.00000800', 'commissionAsset': 'ETH', 'tradeId': 1394801}], '_id': ObjectId('6090af184f3ddf21f673e255')}
+candle closed at 17937.60000000
+the current rsi is 28.46783224085839
+It is oversold, but you already own it, nothing to do.
+candle closed at 17903.51000000
+the current rsi is 26.025680484381187
+It is oversold, but you already own it, nothing to do.
+candle closed at 17857.39000000
+the current rsi is 23.134203249243992
+It is oversold, but you already own it, nothing to do.
+candle closed at 17828.34000000
+the current rsi is 21.512921139558042
+It is oversold, but you already own it, nothing to do.
+candle closed at 17858.84000000
+the current rsi is 27.2755773571691
+It is oversold, but you already own it, nothing to do.
+candle closed at 17833.90000000
+the current rsi is 25.619156588199864
+It is oversold, but you already own it, nothing to do.
+candle closed at 17799.77000000
+the current rsi is 23.514607893994057
+It is oversold, but you already own it, nothing to do.
+candle closed at 17822.01000000
+the current rsi is 27.683446197559164
+It is oversold, but you already own it, nothing to do.
+candle closed at 17837.22000000
+the current rsi is 30.474447976786102
+candle closed at 17851.26000000
+the current rsi is 33.04329955447668
+candle closed at 17798.77000000
+the current rsi is 28.76429756955578
+It is oversold, but you already own it, nothing to do.
+candle closed at 17801.82000000
+the current rsi is 29.33690853964695
+It is oversold, but you already own it, nothing to do.
+candle closed at 17878.85000000
+the current rsi is 42.0142448619945
+candle closed at 17853.65000000
+the current rsi is 39.51654812995585
+candle closed at 17970.14000000
+the current rsi is 53.32881005090202
+candle closed at 17966.21000000
+the current rsi is 52.88998614567325
+candle closed at 17952.56000000
+the current rsi is 51.310699000934655
+candle closed at 17943.03000000
+the current rsi is 50.184025512927654
+candle closed at 17915.14000000
+the current rsi is 46.935880497312475
+candle closed at 17913.47000000
+the current rsi is 46.7407978337798
+candle closed at 17904.58000000
+the current rsi is 45.6529882269144
+candle closed at 17851.00000000
+the current rsi is 39.66177775117373
+candle closed at 17857.26000000
+the current rsi is 40.64190314799182
+candle closed at 17850.74000000
+the current rsi is 39.914660206578276
+candle closed at 17844.66000000
+the current rsi is 39.210058588339116
+candle closed at 17870.54000000
+the current rsi is 43.760931375437536
+candle closed at 17895.19000000
+the current rsi is 47.77151635439001
+candle closed at 17898.24000000
+the current rsi is 48.263145053284624
+candle closed at 17830.00000000
+the current rsi is 39.340501165059315
+candle closed at 17846.36000000
+the current rsi is 42.10397679629466
+candle closed at 17843.96000000
+the current rsi is 41.80310740108182
+candle closed at 17780.35000000
+the current rsi is 34.7212241741403
+candle closed at 17739.42000000
+the current rsi is 31.073429267312925
+candle closed at 17775.56000000
+the current rsi is 37.33379710050239
+candle closed at 17712.10000000
+the current rsi is 31.86143190379785
+candle closed at 17751.84000000
+the current rsi is 37.99113154127557
+candle closed at 17750.58000000
+the current rsi is 37.87479294367921
+candle closed at 17711.05000000
+the current rsi is 34.323591766832806
+candle closed at 17805.05000000
+the current rsi is 47.03986414495994
+candle closed at 17790.00000000
+the current rsi is 45.52019897572727
+candle closed at 17739.71000000
+the current rsi is 40.77939060131475
+candle closed at 17690.38000000
+the current rsi is 36.73760516192143
+candle closed at 17538.26000000
+the current rsi is 27.639947006038586
+It is oversold, but you already own it, nothing to do.
+candle closed at 17590.12000000
+the current rsi is 33.67049027975095
+candle closed at 17650.00000000
+the current rsi is 39.8988580465617
+candle closed at 17745.26000000
+the current rsi is 48.22759704927289
+candle closed at 17755.99000000
+the current rsi is 49.08350848180641
+candle closed at 17842.96000000
+the current rsi is 55.50448619142021
+candle closed at 17869.81000000
+the current rsi is 57.29501284760503
+candle closed at 17875.38000000
+the current rsi is 57.675510413361344
+candle closed at 17870.91000000
+the current rsi is 57.23478272358298
+candle closed at 17879.65000000
+the current rsi is 57.911996536601826
+candle closed at 17893.59000000
+the current rsi is 59.02648198849298
+candle closed at 17929.94000000
+the current rsi is 61.86241271815723
+candle closed at 17913.91000000
+the current rsi is 59.893678271492014
+candle closed at 17857.27000000
+the current rsi is 53.42415401531745
+candle closed at 17867.23000000
+the current rsi is 54.35779256995779
+candle closed at 17862.75000000
+the current rsi is 53.835051625208976
+candle closed at 17849.87000000
+the current rsi is 52.278476236439175
+candle closed at 17826.91000000
+the current rsi is 49.52926798279421
+candle closed at 17783.92000000
+the current rsi is 44.7807674075188
+candle closed at 17843.30000000
+the current rsi is 51.672749001535145
+candle closed at 17817.31000000
+the current rsi is 48.801707131474835
+candle closed at 17899.99000000
+the current rsi is 56.9889373687735
+candle closed at 17900.00000000
+the current rsi is 56.98983322200625
+candle closed at 17907.44000000
+the current rsi is 57.695821640007075
+candle closed at 17884.29000000
+the current rsi is 54.68780860410095
+candle closed at 17861.38000000
+the current rsi is 51.8090844835548
+candle closed at 17880.56000000
+the current rsi is 53.992547830316006
+candle closed at 17914.02000000
+the current rsi is 57.60159275527089
+candle closed at 17938.27000000
+the current rsi is 60.047704706348426
+candle closed at 17923.63000000
+the current rsi is 57.876778051635455
+candle closed at 17901.84000000
+the current rsi is 54.706561043918
+candle closed at 17919.80000000
+the current rsi is 56.806639062087484
+candle closed at 17884.35000000
+the current rsi is 51.710156147244255
+candle closed at 17873.32000000
+the current rsi is 50.201021506188304
+candle closed at 17853.72000000
+the current rsi is 47.54563332490696
+candle closed at 17863.80000000
+the current rsi is 49.038586120279085
+candle closed at 17884.58000000
+the current rsi is 52.06735095524893
+candle closed at 17909.91000000
+the current rsi is 55.53634515611533
+candle closed at 17910.32000000
+the current rsi is 55.59236773679762
+candle closed at 17943.50000000
+the current rsi is 59.98621353303645
+candle closed at 17941.53000000
+the current rsi is 59.60909812926065
+candle closed at 17910.32000000
+the current rsi is 53.834812609764136
+candle closed at 17880.00000000
+the current rsi is 48.88093451435956
+candle closed at 17882.76000000
+the current rsi is 49.33794845776342
+candle closed at 17865.09000000
+the current rsi is 46.47335670288712
+candle closed at 17938.56000000
+the current rsi is 57.51786042321289
+candle closed at 17899.02000000
+the current rsi is 51.37413209606018
+candle closed at 17883.16000000
+the current rsi is 49.108261808929996
+candle closed at 17825.70000000
+the current rsi is 41.89828433120188
+candle closed at 17803.26000000
+the current rsi is 39.46161754770267
+candle closed at 17809.78000000
+the current rsi is 40.54356995893676
+candle closed at 17776.00000000
+the current rsi is 36.86723829072682
+candle closed at 17736.69000000
+the current rsi is 33.10524834357193
+candle closed at 17725.59000000
+the current rsi is 32.10890919536802
+candle closed at 17785.63000000
+the current rsi is 42.23570811906554
+candle closed at 17809.43000000
+the current rsi is 45.693749422726185
+candle closed at 17757.85000000
+the current rsi is 40.09206982451241
+candle closed at 17758.76000000
+the current rsi is 40.231282936094715
+candle closed at 17776.20000000
+the current rsi is 42.96664318258274
+candle closed at 17710.35000000
+the current rsi is 36.22529825164047
+candle closed at 17826.33000000
+the current rsi is 50.85165158495917
+candle closed at 17799.76000000
+the current rsi is 48.12843313502858
+candle closed at 17857.38000000
+the current rsi is 53.89469900153827
+candle closed at 17881.82000000
+the current rsi is 56.122711917828795
+candle closed at 17900.31000000
+the current rsi is 57.78480755282489
+candle closed at 17917.89000000
+the current rsi is 59.36105815618844
+candle closed at 17891.61000000
+the current rsi is 55.995180582198536
+candle closed at 17901.15000000
+the current rsi is 56.949475961587936
+candle closed at 17930.00000000
+the current rsi is 59.78939104418251
+candle closed at 17930.00000000
+the current rsi is 59.78939104418251
+candle closed at 17937.59000000
+the current rsi is 60.58276581279235
+candle closed at 17987.39000000
+the current rsi is 65.40573115284971
+candle closed at 18000.00000000
+the current rsi is 66.52271937369918
+candle closed at 18069.77000000
+the current rsi is 71.92422163516522
+SIDE_SELL
+Sending order...
+an exception occured - APIError(code=-2010): Account has insufficient balance for requested action.
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 27124639, 'orderListId': -1, 'clientOrderId': 'hMYBLoUrVuRF2reqRXSNi5', 'transactTime': 1620101702603, 'price': '0.00000000', 'origQty': '0.00790000', 'executedQty': '0.00790000', 'cummulativeQuoteQty': '142.48953500', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'fills': [{'price': '18036.65000000', 'qty': '0.00790000', 'commission': '0.14248954', 'commissionAsset': 'BRL', 'tradeId': 1398348}], '_id': ObjectId('6090ca474f3ddf21f673e256')}
+candle closed at 18056.35000000
+the current rsi is 69.59811125358164
+candle closed at 18029.34000000
+the current rsi is 65.03894540015183
+candle closed at 18048.54000000
+the current rsi is 66.70843411640935
+candle closed at 18122.28000000
+the current rsi is 72.19930471511651
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18170.45000000
+the current rsi is 75.08962188173228
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18140.06000000
+the current rsi is 70.13550221209324
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18124.76000000
+the current rsi is 67.71332383856799
+candle closed at 18148.81000000
+the current rsi is 69.49662401372454
+candle closed at 18136.93000000
+the current rsi is 67.51293252268249
+candle closed at 18158.48000000
+the current rsi is 69.22874996637319
+candle closed at 18177.08000000
+the current rsi is 70.66868360021202
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18175.42000000
+the current rsi is 70.35226990071763
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18182.20000000
+the current rsi is 70.92487622255157
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18184.28000000
+the current rsi is 71.10922582030625
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18191.62000000
+the current rsi is 71.78898753876545
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18198.86000000
+the current rsi is 72.47688282300064
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18228.17000000
+the current rsi is 75.12164846976715
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18200.74000000
+the current rsi is 68.4887480657481
+candle closed at 18188.11000000
+the current rsi is 65.61591885584326
+candle closed at 18210.03000000
+the current rsi is 68.11563254453966
+candle closed at 18189.08000000
+the current rsi is 63.37355068491998
+candle closed at 18186.51000000
+the current rsi is 62.79600275453131
+candle closed at 18164.52000000
+the current rsi is 57.93115794857881
+candle closed at 18161.32000000
+the current rsi is 57.23626531001024
+candle closed at 18181.48000000
+the current rsi is 60.454569167108055
+candle closed at 18171.41000000
+the current rsi is 58.10239706166701
+candle closed at 18152.62000000
+the current rsi is 53.88909273122153
+candle closed at 18128.37000000
+the current rsi is 48.955122058824195
+candle closed at 18154.43000000
+the current rsi is 53.845649370363816
+candle closed at 18170.48000000
+the current rsi is 56.6033375509739
+candle closed at 18176.11000000
+the current rsi is 57.561222650704956
+candle closed at 18176.09000000
+the current rsi is 57.55636242195153
+candle closed at 18210.00000000
+the current rsi is 63.225940631640874
+candle closed at 18307.74000000
+the current rsi is 74.00458488515481
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18328.35000000
+the current rsi is 75.62685958940557
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18318.24000000
+the current rsi is 73.21320615152334
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18320.33000000
+the current rsi is 73.40218993532037
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18300.75000000
+the current rsi is 68.52464075722061
+candle closed at 18329.69000000
+the current rsi is 71.53535122045598
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18375.50000000
+the current rsi is 75.52604893251889
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18358.03000000
+the current rsi is 71.41413085005777
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18386.13000000
+the current rsi is 73.87766082451185
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18350.00000000
+the current rsi is 66.0016295393728
+candle closed at 18410.00000000
+the current rsi is 71.44580580170889
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18395.02000000
+the current rsi is 68.4967090012361
+candle closed at 18344.07000000
+the current rsi is 59.500672267040954
+candle closed at 18325.05000000
+the current rsi is 56.51660513927021
+candle closed at 18365.57000000
+the current rsi is 61.00359321502241
+candle closed at 18334.05000000
+the current rsi is 56.14980132597898
+candle closed at 18364.84000000
+the current rsi is 59.536649579769396
+candle closed at 18379.21000000
+the current rsi is 61.04873894364747
+candle closed at 18443.72000000
+the current rsi is 67.00900898922315
+candle closed at 18448.06000000
+the current rsi is 67.3707509301294
+candle closed at 18491.68000000
+the current rsi is 70.83241264797154
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18544.08000000
+the current rsi is 74.3524961020322
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18501.04000000
+the current rsi is 67.18077904119673
+candle closed at 18501.04000000
+the current rsi is 67.18077904119673
+candle closed at 18509.67000000
+the current rsi is 67.90077497157066
+candle closed at 18547.74000000
+the current rsi is 70.93045505327146
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18534.17000000
+the current rsi is 68.45040800548146
+candle closed at 18497.50000000
+the current rsi is 62.12869004559811
+candle closed at 18480.15000000
+the current rsi is 59.336443025537775
+candle closed at 18540.02000000
+the current rsi is 65.15593320103548
+candle closed at 18491.33000000
+the current rsi is 57.89881125113888
+candle closed at 18509.03000000
+the current rsi is 59.65789758439669
+candle closed at 18486.29000000
+the current rsi is 56.397613809872226
+candle closed at 18494.21000000
+the current rsi is 57.27341404041817
+candle closed at 18474.36000000
+the current rsi is 54.328050336007784
+candle closed at 18493.91000000
+the current rsi is 56.69038341739918
+candle closed at 18498.76000000
+the current rsi is 57.2807139238218
+candle closed at 18485.70000000
+the current rsi is 55.10265543569781
+candle closed at 18472.75000000
+the current rsi is 52.952552320235654
+candle closed at 18491.57000000
+the current rsi is 55.660334387743696
+candle closed at 18505.61000000
+the current rsi is 57.61995166391374
+candle closed at 18479.58000000
+the current rsi is 52.947784406647834
+candle closed at 18492.36000000
+the current rsi is 54.882135898586014
+candle closed at 18519.99000000
+the current rsi is 58.82344120396785
+candle closed at 18508.74000000
+the current rsi is 56.6533717721435
+candle closed at 18503.65000000
+the current rsi is 55.65299932830213
+candle closed at 18529.99000000
+the current rsi is 59.626014739103894
+candle closed at 18497.43000000
+the current rsi is 53.2725216651148
+candle closed at 18495.00000000
+the current rsi is 52.82016283296721
+candle closed at 18478.94000000
+the current rsi is 49.80980179918234
+candle closed at 18486.16000000
+the current rsi is 51.15750128256087
+candle closed at 18432.78000000
+the current rsi is 42.14669367256926
+candle closed at 18484.77000000
+the current rsi is 51.16827013158864
+candle closed at 18453.79000000
+the current rsi is 46.51368208637034
+candle closed at 18443.37000000
+the current rsi is 45.02995833488138
+candle closed at 18431.88000000
+the current rsi is 43.38648089278404
+candle closed at 18377.65000000
+the current rsi is 36.597324694743286
+candle closed at 18408.17000000
+the current rsi is 42.08954512617698
+candle closed at 18447.28000000
+the current rsi is 48.27318366680138
+candle closed at 18419.09000000
+the current rsi is 44.57828589144055
+candle closed at 18432.74000000
+the current rsi is 46.70545257832529
+candle closed at 18435.77000000
+the current rsi is 47.189995699650645
+candle closed at 18445.27000000
+the current rsi is 48.7628914097044
+candle closed at 18442.56000000
+the current rsi is 48.320763549574096
+candle closed at 18457.49000000
+the current rsi is 50.958880294966015
+candle closed at 18539.50000000
+the current rsi is 62.33325843144178
+candle closed at 18587.80000000
+the current rsi is 67.1636967876336
+candle closed at 18636.71000000
+the current rsi is 71.19244484689196
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18629.93000000
+the current rsi is 69.91193220152113
+candle closed at 18610.87000000
+the current rsi is 66.30156299363918
+candle closed at 18623.61000000
+the current rsi is 67.50934885551996
+candle closed at 18573.02000000
+the current rsi is 58.53727894260356
+candle closed at 18632.73000000
+the current rsi is 64.52920832910544
+candle closed at 18646.99000000
+the current rsi is 65.80033230546228
+candle closed at 18627.75000000
+the current rsi is 62.54368504780719
+candle closed at 18642.16000000
+the current rsi is 63.98152819808084
+candle closed at 18670.71000000
+the current rsi is 66.70830265815741
+candle closed at 18675.42000000
+the current rsi is 67.15013449737383
+candle closed at 18657.07000000
+the current rsi is 63.60825024234662
+candle closed at 18673.44000000
+the current rsi is 65.36342249388281
+candle closed at 18610.69000000
+the current rsi is 54.51049989468768
+candle closed at 18566.22000000
+the current rsi is 48.379749690957006
+candle closed at 18533.92000000
+the current rsi is 44.467751024450514
+candle closed at 18551.41000000
+the current rsi is 46.968339785672384
+candle closed at 18527.05000000
+the current rsi is 43.99674416405174
+candle closed at 18522.32000000
+the current rsi is 43.42227644611373
+candle closed at 18501.04000000
+the current rsi is 40.838751203470615
+candle closed at 18523.05000000
+the current rsi is 44.515825083163136
+candle closed at 18478.71000000
+the current rsi is 39.22645006582607
+candle closed at 18517.78000000
+the current rsi is 45.384436872617016
+candle closed at 18512.17000000
+the current rsi is 44.68429953843946
+candle closed at 18551.13000000
+the current rsi is 50.40624894553649
+candle closed at 18541.81000000
+the current rsi is 49.09785136722933
+candle closed at 18557.08000000
+the current rsi is 51.32706011431611
+candle closed at 18549.80000000
+the current rsi is 50.19835336809717
+candle closed at 18588.06000000
+the current rsi is 55.71064692190559
+candle closed at 18566.36000000
+the current rsi is 52.18275637847095
+candle closed at 18595.44000000
+the current rsi is 56.186820495631295
+candle closed at 18587.97000000
+the current rsi is 54.914735115684074
+candle closed at 18602.17000000
+the current rsi is 56.91180178866785
+candle closed at 18586.91000000
+the current rsi is 54.13656826175567
+candle closed at 18583.15000000
+the current rsi is 53.44502009000042
+candle closed at 18618.94000000
+the current rsi is 58.83534267731453
+candle closed at 18566.22000000
+the current rsi is 49.705710411462306
+candle closed at 18566.22000000
+the current rsi is 49.70571041146231
+candle closed at 18500.00000000
+the current rsi is 40.54145008417766
+candle closed at 18539.61000000
+the current rsi is 46.853444477604306
+candle closed at 18558.68000000
+the current rsi is 49.626054525883575
+candle closed at 18555.15000000
+the current rsi is 49.115268638431694
+candle closed at 18555.15000000
+the current rsi is 49.1152686384317
+candle closed at 18555.10000000
+the current rsi is 49.10696560271427
+candle closed at 18540.08000000
+the current rsi is 46.56058441649152
+candle closed at 18529.54000000
+the current rsi is 44.80484266860867
+candle closed at 18533.66000000
+the current rsi is 45.667314017576686
+candle closed at 18533.64000000
+the current rsi is 45.663583825823714
+candle closed at 18490.46000000
+the current rsi is 38.375447785103326
+candle closed at 18456.35000000
+the current rsi is 33.78779917094648
+candle closed at 18458.75000000
+the current rsi is 34.382190715407646
+candle closed at 18469.81000000
+the current rsi is 37.1808820420786
+candle closed at 18423.47000000
+the current rsi is 31.180233116563333
+candle closed at 18447.11000000
+the current rsi is 36.78520443071467
+candle closed at 18446.36000000
+the current rsi is 36.68312810381424
+candle closed at 18470.95000000
+the current rsi is 42.33326738744725
+candle closed at 18437.63000000
+the current rsi is 37.45584418309876
+candle closed at 18397.52000000
+the current rsi is 32.58837014789729
+candle closed at 18420.13000000
+the current rsi is 37.51755024463878
+candle closed at 18408.68000000
+the current rsi is 36.07881229652146
+candle closed at 18387.62000000
+the current rsi is 33.53174214090439
+candle closed at 18358.25000000
+the current rsi is 30.31727426088754
+candle closed at 18358.32000000
+the current rsi is 30.33441580864112
+candle closed at 18402.95000000
+the current rsi is 40.400906314316515
+candle closed at 18407.20000000
+the current rsi is 41.27118385928121
+candle closed at 18407.20000000
+the current rsi is 41.271183859281216
+candle closed at 18468.84000000
+the current rsi is 52.85168525378743
+candle closed at 18468.58000000
+the current rsi is 52.804387389957064
+candle closed at 18469.06000000
+the current rsi is 52.88821071002231
+candle closed at 18480.51000000
+the current rsi is 54.943937514786846
+candle closed at 18485.82000000
+the current rsi is 55.904885741867595
+candle closed at 18487.68000000
+the current rsi is 56.256818929660604
+candle closed at 18511.86000000
+the current rsi is 60.653308133288
+candle closed at 18513.54000000
+the current rsi is 60.94699718025459
+candle closed at 18511.86000000
+the current rsi is 60.46099357729451
+candle closed at 18512.25000000
+the current rsi is 60.53965974799917
+candle closed at 18539.61000000
+the current rsi is 65.69601676291961
+candle closed at 18571.17000000
+the current rsi is 70.48677644524311
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18533.29000000
+the current rsi is 59.70840883766956
+candle closed at 18533.29000000
+the current rsi is 59.708408837669545
+candle closed at 18506.70000000
+the current rsi is 53.09836656205289
+candle closed at 18477.03000000
+the current rsi is 46.86400440889103
+candle closed at 18516.72000000
+the current rsi is 54.5514057662778
+candle closed at 18471.51000000
+the current rsi is 46.329275807164294
+candle closed at 18487.15000000
+the current rsi is 49.18276571177454
+candle closed at 18480.59000000
+the current rsi is 48.02932016028984
+candle closed at 18475.12000000
+the current rsi is 47.03869894914168
+candle closed at 18491.52000000
+the current rsi is 50.345449562514474
+candle closed at 18467.92000000
+the current rsi is 45.90380015167138
+candle closed at 18447.76000000
+the current rsi is 42.45787738676775
+candle closed at 18429.66000000
+the current rsi is 39.584733629677494
+candle closed at 18414.50000000
+the current rsi is 37.3075348570267
+candle closed at 18445.48000000
+the current rsi is 44.35259962837772
+candle closed at 18467.33000000
+the current rsi is 48.728805922643176
+candle closed at 18432.61000000
+the current rsi is 42.94893354804772
+candle closed at 18419.11000000
+the current rsi is 40.916708031564184
+candle closed at 18409.58000000
+the current rsi is 39.495963339523186
+candle closed at 18449.03000000
+the current rsi is 47.6062083763097
+candle closed at 18440.82000000
+the current rsi is 46.21773015885281
+candle closed at 18422.07000000
+the current rsi is 43.124299871670985
+candle closed at 18422.07000000
+the current rsi is 43.12429987167099
+candle closed at 18422.07000000
+the current rsi is 43.12429987167099
+candle closed at 18432.58000000
+the current rsi is 45.67011017090372
+candle closed at 18415.52000000
+the current rsi is 42.35594143100977
+candle closed at 18413.28000000
+the current rsi is 41.92573498140245
+candle closed at 18404.43000000
+the current rsi is 40.188938045882
+candle closed at 18385.13000000
+the current rsi is 36.6256388505381
+candle closed at 18362.74000000
+the current rsi is 32.97315933895472
+candle closed at 18336.15000000
+the current rsi is 29.243410956292426
+SIDE_BUY
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 27223586, 'orderListId': -1, 'clientOrderId': 'xLd2dHUk5p5ULwhaIwe9Up', 'transactTime': 1620114242964, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '146.51048000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'fills': [{'price': '18313.81000000', 'qty': '0.00800000', 'commission': '0.00000800', 'commissionAsset': 'ETH', 'tradeId': 1400890}], '_id': ObjectId('6090fb444f3ddf21f673e257')}
+candle closed at 18300.35000000
+the current rsi is 25.12300561785078
+It is oversold, but you already own it, nothing to do.
+candle closed at 18353.07000000
+the current rsi is 38.798705984064966
+candle closed at 18310.25000000
+the current rsi is 33.45419788113932
+candle closed at 18260.37000000
+the current rsi is 28.524957768737487
+It is oversold, but you already own it, nothing to do.
+candle closed at 18221.18000000
+the current rsi is 25.362952023004613
+It is oversold, but you already own it, nothing to do.
+candle closed at 18250.00000000
+the current rsi is 31.386477567298815
+candle closed at 18254.93000000
+the current rsi is 32.39163562379053
+candle closed at 18205.85000000
+the current rsi is 27.994764124847755
+It is oversold, but you already own it, nothing to do.
+candle closed at 18223.23000000
+the current rsi is 31.538700643409957
+candle closed at 18197.58000000
+the current rsi is 29.25058146651869
+It is oversold, but you already own it, nothing to do.
+candle closed at 18211.05000000
+the current rsi is 32.039009581955774
+candle closed at 18223.22000000
+the current rsi is 34.54893580696829
+candle closed at 18230.36000000
+the current rsi is 36.04136172519989
+candle closed at 18237.11000000
+the current rsi is 37.49246619275918
+candle closed at 18164.11000000
+the current rsi is 29.656063516097618
+It is oversold, but you already own it, nothing to do.
+candle closed at 18149.30000000
+the current rsi is 28.36094271074412
+It is oversold, but you already own it, nothing to do.
+candle closed at 18207.30000000
+the current rsi is 39.50349499783167
+candle closed at 18268.65000000
+the current rsi is 48.60880598454991
+candle closed at 18292.52000000
+the current rsi is 51.65751519500912
+candle closed at 18269.34000000
+the current rsi is 48.63988818349921
+candle closed at 18264.44000000
+the current rsi is 48.001544464674744
+candle closed at 18267.63000000
+the current rsi is 48.47562707220583
+candle closed at 18256.61000000
+the current rsi is 46.885337469268
+candle closed at 18256.60000000
+the current rsi is 46.88383439999703
+candle closed at 18259.29000000
+the current rsi is 47.37258906766705
+candle closed at 18208.95000000
+the current rsi is 39.96193809888473
+candle closed at 18134.23000000
+the current rsi is 31.968113982346523
+candle closed at 18113.64000000
+the current rsi is 30.176746731070697
+candle closed at 18047.16000000
+the current rsi is 25.255805416596527
+It is oversold, but you already own it, nothing to do.
+candle closed at 18092.95000000
+the current rsi is 33.32123711295652
+candle closed at 18001.57000000
+the current rsi is 27.04848307227979
+It is oversold, but you already own it, nothing to do.
+candle closed at 18135.02000000
+the current rsi is 43.71313686752447
+candle closed at 18157.20000000
+the current rsi is 45.92415806277536
+candle closed at 18157.83000000
+the current rsi is 45.989056063530164
+candle closed at 18183.18000000
+the current rsi is 48.65907192195525
+candle closed at 18141.05000000
+the current rsi is 44.7038138270708
+candle closed at 18170.16000000
+the current rsi is 47.85763566649797
+candle closed at 18137.65000000
+the current rsi is 44.78551018241811
+candle closed at 18112.43000000
+the current rsi is 42.505954122598
+candle closed at 18151.32000000
+the current rsi is 46.98693613130161
+candle closed at 18072.90000000
+the current rsi is 40.18559831971969
+candle closed at 18122.66000000
+the current rsi is 45.56950721633275
+candle closed at 18132.38000000
+the current rsi is 46.58098967118773
+candle closed at 18087.72000000
+the current rsi is 42.65852484260196
+candle closed at 18081.66000000
+the current rsi is 42.1399836074649
+candle closed at 18105.50000000
+the current rsi is 44.973760216764155
+candle closed at 18106.34000000
+the current rsi is 45.07583260101791
+candle closed at 18194.31000000
+the current rsi is 54.57839786648577
+candle closed at 18248.53000000
+the current rsi is 59.25723069558977
+candle closed at 18223.78000000
+the current rsi is 56.40119420079599
+candle closed at 18210.00000000
+the current rsi is 54.81704274264491
+candle closed at 18168.26000000
+the current rsi is 50.21617313267496
+candle closed at 18153.27000000
+the current rsi is 48.63736895131226
+candle closed at 18160.76000000
+the current rsi is 49.491866541934286
+candle closed at 18122.66000000
+the current rsi is 45.358097122738855
+candle closed at 18131.29000000
+the current rsi is 46.44915858803857
+candle closed at 18226.58000000
+the current rsi is 56.72431741551585
+candle closed at 18160.63000000
+the current rsi is 49.62702581153863
+candle closed at 18142.25000000
+the current rsi is 47.83085790674528
+candle closed at 18122.66000000
+the current rsi is 45.9230568509078
+candle closed at 18030.91000000
+the current rsi is 38.231672241595895
+candle closed at 18137.37000000
+the current rsi is 48.92162700376145
+candle closed at 18098.63000000
+the current rsi is 45.81442089063511
+candle closed at 18081.57000000
+the current rsi is 44.47478395993324
+candle closed at 18111.05000000
+the current rsi is 47.34025984379961
+candle closed at 18112.86000000
+the current rsi is 47.51933757683655
+candle closed at 18080.86000000
+the current rsi is 44.629702785245655
+candle closed at 18059.24000000
+the current rsi is 42.7387328828986
+candle closed at 18029.85000000
+the current rsi is 40.242559237211864
+candle closed at 18044.25000000
+the current rsi is 42.02909143625984
+candle closed at 18071.38000000
+the current rsi is 45.3444111860204
+candle closed at 18071.38000000
+the current rsi is 45.3444111860204
+candle closed at 18124.31000000
+the current rsi is 51.606558612803624
+candle closed at 18169.05000000
+the current rsi is 56.177109029069605
+candle closed at 18146.38000000
+the current rsi is 53.423787716181124
+candle closed at 18139.83000000
+the current rsi is 52.62130882051014
+candle closed at 18341.80000000
+the current rsi is 68.38898357528676
+candle closed at 18255.25000000
+the current rsi is 59.28385795750902
+candle closed at 18253.82000000
+the current rsi is 59.143750161946826
+candle closed at 18264.97000000
+the current rsi is 59.93876222569956
+candle closed at 18288.31000000
+the current rsi is 61.62223302408882
+candle closed at 18318.68000000
+the current rsi is 63.756459314426216
+candle closed at 18324.88000000
+the current rsi is 64.19422869138425
+candle closed at 18348.90000000
+the current rsi is 65.9120637668266
+candle closed at 18379.30000000
+the current rsi is 68.00427555351557
+candle closed at 18401.88000000
+the current rsi is 69.50160366035763
+candle closed at 18398.85000000
+the current rsi is 69.0347335653953
+candle closed at 18414.56000000
+the current rsi is 70.15417917708275
+SIDE_SELL
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 27260948, 'orderListId': -1, 'clientOrderId': 'yB6owarwzuxaafXIvqZRwu', 'transactTime': 1620119522157, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '147.11728000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'fills': [{'price': '18389.66000000', 'qty': '0.00800000', 'commission': '0.14711728', 'commissionAsset': 'BRL', 'tradeId': 1402295}], '_id': ObjectId('60910fe24f3ddf21f673e258')}
+candle closed at 18425.11000000
+the current rsi is 70.91461736210846
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18422.27000000
+the current rsi is 70.39465650959698
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18424.65000000
+the current rsi is 70.5892749174024
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18437.14000000
+the current rsi is 71.64280571174208
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18387.30000000
+the current rsi is 62.08556700746638
+candle closed at 18382.71000000
+the current rsi is 61.27486445178722
+candle closed at 18401.13000000
+the current rsi is 63.34349786412105
+candle closed at 18387.29000000
+the current rsi is 60.71899928816944
+candle closed at 18403.43000000
+the current rsi is 62.66189162498886
+candle closed at 18437.11000000
+the current rsi is 66.39695566813036
+candle closed at 18491.77000000
+the current rsi is 71.39764388868241
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18515.65000000
+the current rsi is 73.2692388092185
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18507.91000000
+the current rsi is 71.6331185270185
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18491.77000000
+the current rsi is 68.21249906299771
+candle closed at 18476.03000000
+the current rsi is 64.954963767339
+candle closed at 18525.27000000
+the current rsi is 69.81186673686801
+candle closed at 18485.65000000
+the current rsi is 62.32690498246679
+candle closed at 18501.11000000
+the current rsi is 63.95107809761663
+candle closed at 18509.15000000
+the current rsi is 64.80096859193277
+candle closed at 18499.04000000
+the current rsi is 62.796112341805575
+candle closed at 18460.14000000
+the current rsi is 55.66048942970331
+candle closed at 18467.71000000
+the current rsi is 56.69182495712231
+candle closed at 18460.83000000
+the current rsi is 55.429908831773155
+candle closed at 18437.02000000
+the current rsi is 51.18373592349992
+candle closed at 18440.93000000
+the current rsi is 51.836229194448215
+candle closed at 18439.44000000
+the current rsi is 51.553439656208745
+candle closed at 18425.04000000
+the current rsi is 48.783539276382285
+candle closed at 18387.07000000
+the current rsi is 42.3258779225159
+candle closed at 18439.00000000
+the current rsi is 51.73586264052958
+candle closed at 18466.00000000
+the current rsi is 55.775999499163056
+candle closed at 18504.91000000
+the current rsi is 60.86071404652515
+candle closed at 18450.00000000
+the current rsi is 51.80797388537843
+candle closed at 18428.88000000
+the current rsi is 48.801200672839805
+candle closed at 18449.66000000
+the current rsi is 51.76727593980102
+candle closed at 18480.73000000
+the current rsi is 55.88267501806489
+candle closed at 18449.66000000
+the current rsi is 51.17989921261924
+candle closed at 18440.00000000
+the current rsi is 49.777314480047266
+candle closed at 18440.00000000
+the current rsi is 49.777314480047266
+candle closed at 18456.99000000
+the current rsi is 52.43615480629561
+candle closed at 18410.44000000
+the current rsi is 45.35183470606709
+candle closed at 18429.58000000
+the current rsi is 48.43655771712087
+candle closed at 18434.99000000
+the current rsi is 49.30756888204852
+candle closed at 18435.70000000
+the current rsi is 49.42830441448129
+candle closed at 18400.00000000
+the current rsi is 43.781794547775874
+candle closed at 18310.83000000
+the current rsi is 33.49065886615799
+candle closed at 18349.70000000
+the current rsi is 40.10025846471742
+candle closed at 18371.50000000
+the current rsi is 43.49204662738698
+candle closed at 18350.00000000
+the current rsi is 41.024776796828775
+candle closed at 18376.46000000
+the current rsi is 45.14886977022925
+candle closed at 18413.68000000
+the current rsi is 50.402831990496544
+candle closed at 18390.93000000
+the current rsi is 47.413377322587614
+candle closed at 18408.98000000
+the current rsi is 49.94980951480881
+candle closed at 18403.69000000
+the current rsi is 49.200806870047494
+candle closed at 18410.54000000
+the current rsi is 50.241297432758614
+candle closed at 18421.70000000
+the current rsi is 51.96743504742961
+candle closed at 18456.99000000
+the current rsi is 57.0422482358368
+candle closed at 18447.07000000
+the current rsi is 55.27436830254856
+candle closed at 18469.52000000
+the current rsi is 58.41543831614663
+candle closed at 18471.13000000
+the current rsi is 58.63977394395696
+candle closed at 18500.23000000
+the current rsi is 62.570165567790845
+candle closed at 18532.77000000
+the current rsi is 66.41364879224605
+candle closed at 18548.96000000
+the current rsi is 68.16520135473225
+candle closed at 18560.57000000
+the current rsi is 69.39769460303165
+candle closed at 18599.40000000
+the current rsi is 73.14279231561194
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18586.21000000
+the current rsi is 70.00862177109065
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18667.94000000
+the current rsi is 76.6774377833889
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18704.99000000
+the current rsi is 78.96126541652082
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18655.83000000
+the current rsi is 69.26882325224906
+candle closed at 18633.41000000
+the current rsi is 65.33022494808131
+candle closed at 18709.47000000
+the current rsi is 71.29355320288946
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18680.68000000
+the current rsi is 66.62236098585977
+candle closed at 18680.97000000
+the current rsi is 66.64606738225687
+candle closed at 18679.04000000
+the current rsi is 66.30852888239605
+candle closed at 18626.39000000
+the current rsi is 57.72030847950701
+candle closed at 18693.24000000
+the current rsi is 64.08151528548744
+candle closed at 18631.14000000
+the current rsi is 55.698066823736816
+candle closed at 18672.56000000
+the current rsi is 59.5035520135997
+candle closed at 18613.55000000
+the current rsi is 52.5746565924245
+candle closed at 18558.95000000
+the current rsi is 47.10861239832155
+candle closed at 18565.87000000
+the current rsi is 47.84866108466306
+candle closed at 18630.10000000
+the current rsi is 54.24757102205624
+candle closed at 18632.45000000
+the current rsi is 54.467698754029946
+candle closed at 18654.47000000
+the current rsi is 56.57596249804146
+candle closed at 18668.48000000
+the current rsi is 57.91125622055604
+candle closed at 18682.28000000
+the current rsi is 59.24078591674446
+candle closed at 18679.78000000
+the current rsi is 58.87793331491663
+candle closed at 18678.66000000
+the current rsi is 58.704455799335406
+candle closed at 18667.97000000
+the current rsi is 56.97882265509835
+candle closed at 18667.96000000
+the current rsi is 56.97713538350017
+candle closed at 18689.74000000
+the current rsi is 59.77128852949731
+candle closed at 18746.74000000
+the current rsi is 65.99555571895706
+candle closed at 18744.28000000
+the current rsi is 65.52436162490358
+candle closed at 18756.03000000
+the current rsi is 66.74565767955986
+candle closed at 18734.33000000
+the current rsi is 62.352573066532415
+candle closed at 18792.55000000
+the current rsi is 68.36804536377421
+candle closed at 18812.39000000
+the current rsi is 70.12017650977049
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18853.76000000
+the current rsi is 73.4256370654025
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18800.00000000
+the current rsi is 63.58217731528902
+candle closed at 18812.73000000
+the current rsi is 64.78601798617186
+candle closed at 18857.16000000
+the current rsi is 68.67773128583009
+candle closed at 18890.78000000
+the current rsi is 71.26555447867223
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18901.40000000
+the current rsi is 72.05107579835455
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18909.02000000
+the current rsi is 72.62924776015697
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18885.70000000
+the current rsi is 67.99352209111606
+candle closed at 18876.86000000
+the current rsi is 66.26684596534298
+candle closed at 18873.38000000
+the current rsi is 65.5610150491431
+candle closed at 18870.64000000
+the current rsi is 64.97419989717443
+candle closed at 18924.45000000
+the current rsi is 70.5492537471312
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18879.55000000
+the current rsi is 61.721227978054095
+candle closed at 18847.92000000
+the current rsi is 56.36996304988765
+candle closed at 18840.75000000
+the current rsi is 55.201598963160556
+candle closed at 18903.06000000
+the current rsi is 62.47972736758789
+candle closed at 18885.93000000
+the current rsi is 59.61239482078913
+candle closed at 18900.00000000
+the current rsi is 61.18792671471422
+candle closed at 18875.17000000
+the current rsi is 56.96462919524722
+candle closed at 18841.84000000
+the current rsi is 51.796540363611896
+candle closed at 18860.77000000
+the current rsi is 54.33078328347221
+candle closed at 18874.53000000
+the current rsi is 56.13600567793073
+candle closed at 18835.00000000
+the current rsi is 50.01904600145932
+candle closed at 18780.51000000
+the current rsi is 43.054575562479044
+candle closed at 18731.28000000
+the current rsi is 37.91776930201785
+candle closed at 18738.72000000
+the current rsi is 39.100311716946905
+candle closed at 18788.00000000
+the current rsi is 46.385106295417266
+candle closed at 18768.52000000
+the current rsi is 44.13753610870684
+candle closed at 18767.10000000
+the current rsi is 43.970281525267815
+candle closed at 18766.99000000
+the current rsi is 43.95638580883936
+candle closed at 18707.60000000
+the current rsi is 37.13317081899949
+candle closed at 18715.00000000
+the current rsi is 38.415910939812406
+candle closed at 18794.97000000
+the current rsi is 50.233618666120414
+candle closed at 18775.34000000
+the current rsi is 47.80842169832925
+candle closed at 18828.68000000
+the current rsi is 54.26912058380412
+candle closed at 18827.69000000
+the current rsi is 54.13517589770523
+candle closed at 18839.15000000
+the current rsi is 55.50424506788109
+candle closed at 18830.81000000
+the current rsi is 54.235439891305646
+candle closed at 18862.71000000
+the current rsi is 58.17389152981853
+candle closed at 18842.20000000
+the current rsi is 54.9023899417825
+candle closed at 18858.82000000
+the current rsi is 57.012065352808925
+candle closed at 18837.73000000
+the current rsi is 53.58638514276518
+candle closed at 18881.96000000
+the current rsi is 59.13243590073309
+candle closed at 18886.17000000
+the current rsi is 59.626951312573674
+candle closed at 18905.63000000
+the current rsi is 61.92064831948404
+candle closed at 18969.84000000
+the current rsi is 68.31679147556497
+candle closed at 18979.78000000
+the current rsi is 69.17983362494498
+candle closed at 18953.22000000
+the current rsi is 64.15137168580361
+candle closed at 19081.07000000
+the current rsi is 73.96239049849801
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 19140.00000000
+the current rsi is 77.07655685055616
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 19168.06000000
+the current rsi is 78.40122107323651
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 19129.74000000
+the current rsi is 72.26010818038027
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 19174.20000000
+the current rsi is 74.73300756281202
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 19176.17000000
+the current rsi is 74.84003451917751
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 19127.64000000
+the current rsi is 67.27952147257682
+candle closed at 19141.25000000
+the current rsi is 68.24828329676129
+candle closed at 19162.53000000
+the current rsi is 69.7560497178896
+candle closed at 19125.20000000
+the current rsi is 64.01344278567156
+candle closed at 19109.46000000
+the current rsi is 61.706742064813994
+candle closed at 19160.75000000
+the current rsi is 66.00548583472424
+candle closed at 19188.96000000
+the current rsi is 68.12494592436461
+candle closed at 19130.50000000
+the current rsi is 59.80375871122822
+candle closed at 19160.33000000
+the current rsi is 62.332067049165765
+candle closed at 19171.76000000
+the current rsi is 63.28500735913589
+candle closed at 19203.69000000
+the current rsi is 65.8816895406735
+candle closed at 19186.70000000
+the current rsi is 63.31563738538788
+candle closed at 19185.31000000
+the current rsi is 63.09910142502007
+candle closed at 19202.11000000
+the current rsi is 64.67171065665521
+candle closed at 19210.00000000
+the current rsi is 65.41712438419633
+candle closed at 19247.70000000
+the current rsi is 68.80416512844842
+candle closed at 19246.41000000
+the current rsi is 68.55674072927198
+candle closed at 19230.08000000
+the current rsi is 65.35287961675242
+candle closed at 19213.54000000
+the current rsi is 62.183094283458885
+candle closed at 19181.52000000
+the current rsi is 56.472603452813516
+candle closed at 19157.74000000
+the current rsi is 52.60863684739701
+candle closed at 19169.83000000
+the current rsi is 54.31991874528206
+candle closed at 19164.21000000
+the current rsi is 53.35543324206918
+candle closed at 19167.89000000
+the current rsi is 53.932239389796564
+candle closed at 19109.45000000
+the current rsi is 44.51752946301472
+candle closed at 19070.65000000
+the current rsi is 39.57766675160772
+candle closed at 19103.29000000
+the current rsi is 45.09695832547844
+candle closed at 19031.64000000
+the current rsi is 37.08809169024006
+candle closed at 19007.50000000
+the current rsi is 34.84294646103637
+candle closed at 19056.65000000
+the current rsi is 42.47804317380717
+candle closed at 19068.61000000
+the current rsi is 44.19177804049523
+candle closed at 19080.18000000
+the current rsi is 45.87182052451072
+candle closed at 19094.00000000
+the current rsi is 47.889743818082756
+candle closed at 19096.92000000
+the current rsi is 48.328067993977314
+candle closed at 19051.32000000
+the current rsi is 42.33875542174966
+candle closed at 18950.00000000
+the current rsi is 32.65502677972012
+candle closed at 19029.05000000
+the current rsi is 43.510811788460735
+candle closed at 19080.00000000
+the current rsi is 49.195247824421415
+candle closed at 19108.99000000
+the current rsi is 52.14597612855913
+candle closed at 19083.35000000
+the current rsi is 49.412494536849344
+candle closed at 19056.02000000
+the current rsi is 46.60795422400194
+candle closed at 19031.18000000
+the current rsi is 44.15493580854284
+candle closed at 19018.62000000
+the current rsi is 42.92474845553388
+candle closed at 18974.92000000
+the current rsi is 38.86730133475574
+candle closed at 18919.90000000
+the current rsi is 34.45179243740312
+candle closed at 18910.64000000
+the current rsi is 33.756717436005964
+candle closed at 18937.01000000
+the current rsi is 37.616588474407415
+candle closed at 18902.00000000
+the current rsi is 34.723749692492866
+candle closed at 18949.02000000
+the current rsi is 41.25763423056089
+candle closed at 18954.01000000
+the current rsi is 41.92203518865355
+candle closed at 18910.11000000
+the current rsi is 37.86452188679341
+candle closed at 18970.49000000
+the current rsi is 45.65541337491462
+candle closed at 19025.00000000
+the current rsi is 51.56036240263623
+candle closed at 19063.80000000
+the current rsi is 55.28475698125801
+candle closed at 19061.02000000
+the current rsi is 54.95870335695409
+candle closed at 19061.01000000
+the current rsi is 54.95744776052911
+candle closed at 19074.95000000
+the current rsi is 56.45106257507015
+candle closed at 19051.73000000
+the current rsi is 53.28165939998306
+candle closed at 19104.47000000
+the current rsi is 58.92282134956945
+candle closed at 19158.28000000
+the current rsi is 63.73436074917072
+candle closed at 19165.05000000
+the current rsi is 64.30092704822682
+candle closed at 19255.00000000
+the current rsi is 70.82309286887966
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 19268.88000000
+the current rsi is 71.68281471417565
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 19312.37000000
+the current rsi is 74.24368221618893
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 19322.62000000
+the current rsi is 74.82162372444405
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 19279.24000000
+the current rsi is 67.87954694258376
+candle closed at 19290.95000000
+the current rsi is 68.72314844353447
+candle closed at 19257.33000000
+the current rsi is 63.56164405694008
+candle closed at 19162.28000000
+the current rsi is 51.732001329394016
+candle closed at 19184.74000000
+the current rsi is 53.914639805803986
+candle closed at 19198.36000000
+the current rsi is 55.23653862645826
+candle closed at 19181.46000000
+the current rsi is 53.19752134399425
+candle closed at 19151.64000000
+the current rsi is 49.71054805916501
+candle closed at 19159.07000000
+the current rsi is 50.57976441933456
+candle closed at 19188.59000000
+the current rsi is 53.9829233941055
+candle closed at 19176.87000000
+the current rsi is 52.438993020443355
+candle closed at 19219.78000000
+the current rsi is 57.25883952138815
+candle closed at 19259.28000000
+the current rsi is 61.16074154585105
+candle closed at 19238.67000000
+the current rsi is 58.176439555139716
+candle closed at 19179.89000000
+the current rsi is 50.594055282961726
+candle closed at 19093.30000000
+the current rsi is 41.92528463260996
+candle closed at 19174.66000000
+the current rsi is 50.506251966715176
+candle closed at 19118.35000000
+the current rsi is 45.4957705623918
+candle closed at 19159.26000000
+the current rsi is 49.421571551982915
+candle closed at 19156.98000000
+the current rsi is 49.208840318998014
+candle closed at 19142.94000000
+the current rsi is 47.843152491249064
+candle closed at 19169.42000000
+the current rsi is 50.62632010217487
+candle closed at 19229.54000000
+the current rsi is 56.32467910834061
+candle closed at 19197.96000000
+the current rsi is 52.87273374665258
+candle closed at 19188.68000000
+the current rsi is 51.86678682767598
+candle closed at 19147.99000000
+the current rsi is 47.59121245612699
+candle closed at 19157.64000000
+the current rsi is 48.67186215445762
+candle closed at 19188.65000000
+the current rsi is 52.09056247242134
+candle closed at 19219.65000000
+the current rsi is 55.29606337488708
+candle closed at 19219.47000000
+the current rsi is 55.272938314349126
+candle closed at 19212.41000000
+the current rsi is 54.31350808478308
+candle closed at 19173.60000000
+the current rsi is 49.25233388295002
+candle closed at 19165.94000000
+the current rsi is 48.295751950921435
+candle closed at 19180.73000000
+the current rsi is 50.30277156033548
+candle closed at 19220.00000000
+the current rsi is 55.267813557084445
+candle closed at 19307.79000000
+the current rsi is 63.94091281737088
+candle closed at 19274.23000000
+the current rsi is 59.21437712110481
+candle closed at 19257.41000000
+the current rsi is 56.942477235162116
+candle closed at 19283.51000000
+the current rsi is 59.536785644592385
+candle closed at 19353.84000000
+the current rsi is 65.55872735883719
+candle closed at 19288.40000000
+the current rsi is 57.050774596272035
+candle closed at 19324.71000000
+the current rsi is 60.14165009963958
+candle closed at 19363.06000000
+the current rsi is 63.15743163422011
+candle closed at 19331.16000000
+the current rsi is 59.1484511915774
+candle closed at 19368.41000000
+the current rsi is 62.16830264886224
+candle closed at 19410.00000000
+the current rsi is 65.25645364357294
+candle closed at 19391.66000000
+the current rsi is 62.82120096770198
+candle closed at 19366.28000000
+the current rsi is 59.51143018387073
+candle closed at 19318.26000000
+the current rsi is 53.7421462742729
+candle closed at 19302.06000000
+the current rsi is 51.91370469583024
+candle closed at 19329.95000000
+the current rsi is 54.76695634291777
+candle closed at 19287.11000000
+the current rsi is 49.871873232941184
+candle closed at 19329.94000000
+the current rsi is 54.272386141842865
+candle closed at 19287.98000000
+the current rsi is 49.671890714747065
+candle closed at 19256.18000000
+the current rsi is 46.45778255113027
+candle closed at 19297.60000000
+the current rsi is 50.91314144510694
+candle closed at 19318.88000000
+the current rsi is 53.07361831580996
+candle closed at 19286.46000000
+the current rsi is 49.4991750101374
+candle closed at 19278.43000000
+the current rsi is 48.62563614851325
+candle closed at 19241.49000000
+the current rsi is 44.71619118776882
+candle closed at 19201.11000000
+the current rsi is 40.84989713547351
+candle closed at 19225.69000000
+the current rsi is 44.0226943467226
+candle closed at 19179.60000000
+the current rsi is 39.72031224907231
+candle closed at 19095.98000000
+the current rsi is 33.3517780071329
+candle closed at 19200.00000000
+the current rsi is 45.136106243660194
+candle closed at 19187.13000000
+the current rsi is 44.09720630660177
+candle closed at 19215.42000000
+the current rsi is 46.98576509570345
+candle closed at 19232.22000000
+the current rsi is 48.681593401522186
+candle closed at 19200.01000000
+the current rsi is 45.6655069117623
+candle closed at 19181.16000000
+the current rsi is 43.949426888405306
+candle closed at 19195.57000000
+the current rsi is 45.63145884438864
+candle closed at 19131.43000000
+the current rsi is 39.89293913707856
+candle closed at 19180.18000000
+the current rsi is 45.50265912514212
+candle closed at 19220.29000000
+the current rsi is 49.66509601101464
+candle closed at 19130.86000000
+the current rsi is 41.96831493459035
+candle closed at 19200.00000000
+the current rsi is 48.60037746066749
+candle closed at 19194.68000000
+the current rsi is 48.144449115878025
+candle closed at 19147.76000000
+the current rsi is 44.20563372677684
+candle closed at 19109.95000000
+the current rsi is 41.27513672011969
+candle closed at 19045.20000000
+the current rsi is 36.77861393904181
+candle closed at 19020.32000000
+the current rsi is 35.19215293821354
+candle closed at 19020.33000000
+the current rsi is 35.193362945081795
+candle closed at 18935.00000000
+the current rsi is 30.039434113980786
+candle closed at 18932.03000000
+the current rsi is 29.8754388412951
+SIDE_BUY
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 27350933, 'orderListId': -1, 'clientOrderId': 'RsvaE5izgDssnYfQj58Ryj', 'transactTime': 1620137461028, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '151.35496000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'fills': [{'price': '18919.37000000', 'qty': '0.00800000', 'commission': '0.00000800', 'commissionAsset': 'ETH', 'tradeId': 1414816}], '_id': ObjectId('609155f54f3ddf21f673e259')}
+candle closed at 18865.67000000
+the current rsi is 26.406581947388297
+It is oversold, but you already own it, nothing to do.
+candle closed at 18837.74000000
+the current rsi is 25.086325245983065
+It is oversold, but you already own it, nothing to do.
+candle closed at 18944.95000000
+the current rsi is 37.917451314156104
+candle closed at 19006.61000000
+the current rsi is 43.87184251932925
+candle closed at 19009.63000000
+the current rsi is 44.15435992249337
+candle closed at 19017.25000000
+the current rsi is 44.90786594380242
+candle closed at 19064.83000000
+the current rsi is 49.490591857229994
+candle closed at 19092.00000000
+the current rsi is 51.94863715364663
+candle closed at 19120.27000000
+the current rsi is 54.433400734780314
+candle closed at 19139.90000000
+the current rsi is 56.129800287280304
+candle closed at 19100.00000000
+the current rsi is 51.900303415983316
+candle closed at 19085.51000000
+the current rsi is 50.41460136888312
+candle closed at 19045.13000000
+the current rsi is 46.42612626365478
+candle closed at 19103.88000000
+the current rsi is 52.33465713679581
+candle closed at 19139.99000000
+the current rsi is 55.57755463791628
+candle closed at 19108.50000000
+the current rsi is 52.23974615355228
+candle closed at 19121.56000000
+the current rsi is 53.487382336430386
+candle closed at 19109.96000000
+the current rsi is 52.183454208866706
+candle closed at 19044.96000000
+the current rsi is 45.49123594679044
+candle closed at 18988.23000000
+the current rsi is 40.59769968917523
+candle closed at 19034.40000000
+the current rsi is 45.71570842760364
+candle closed at 18999.99000000
+the current rsi is 42.75883263746086
+candle closed at 18885.85000000
+the current rsi is 34.733634912836145
+candle closed at 18878.20000000
+the current rsi is 34.26939277147301
+candle closed at 18816.73000000
+the current rsi is 30.716716931577004
+candle closed at 18734.34000000
+the current rsi is 26.71857314854605
+It is oversold, but you already own it, nothing to do.
+candle closed at 18499.99000000
+the current rsi is 19.102276159597267
+It is oversold, but you already own it, nothing to do.
+candle closed at 18638.85000000
+the current rsi is 31.552692251971127
+candle closed at 18689.78000000
+the current rsi is 35.47512864228584
+candle closed at 18684.27000000
+the current rsi is 35.23984263217303
+candle closed at 18706.28000000
+the current rsi is 37.03629428489101
+candle closed at 18657.11000000
+the current rsi is 34.71920754756164
+candle closed at 18715.83000000
+the current rsi is 39.58061049345934
+candle closed at 18615.60000000
+the current rsi is 34.81480285352267
+candle closed at 18600.00000000
+the current rsi is 34.126068368801846
+candle closed at 18602.76000000
+the current rsi is 34.37343251117653
+candle closed at 18718.26000000
+the current rsi is 43.872041159673856
+candle closed at 18717.48000000
+the current rsi is 43.82590849565257
+candle closed at 18767.36000000
+the current rsi is 47.619144031860905
+candle closed at 18785.68000000
+the current rsi is 48.98178890777994
+candle closed at 18791.54000000
+the current rsi is 49.43491354949974
+candle closed at 18826.79000000
+the current rsi is 52.185936998760994
+candle closed at 18850.02000000
+the current rsi is 53.96348268462656
+candle closed at 18789.31000000
+the current rsi is 48.852039602516335
+candle closed at 18689.91000000
+the current rsi is 41.860693355165104
+candle closed at 18724.43000000
+the current rsi is 44.814436186612795
+candle closed at 18704.86000000
+the current rsi is 43.46622032727371
+candle closed at 18687.60000000
+the current rsi is 42.258705876350305
+candle closed at 18655.56000000
+the current rsi is 40.035294193107546
+candle closed at 18734.62000000
+the current rsi is 47.39082721146909
+candle closed at 18756.23000000
+the current rsi is 49.22422882970809
+candle closed at 18741.03000000
+the current rsi is 47.958231466650645
+candle closed at 18698.61000000
+the current rsi is 44.51716442979435
+candle closed at 18648.21000000
+the current rsi is 40.773850457317586
+candle closed at 18613.54000000
+the current rsi is 38.38287948984419
+candle closed at 18598.85000000
+the current rsi is 37.38261490768519
+candle closed at 18500.63000000
+the current rsi is 31.4762171668038
+candle closed at 18496.29000000
+the current rsi is 31.24133122378533
+candle closed at 18350.15000000
+the current rsi is 24.587727374827498
+It is oversold, but you already own it, nothing to do.
+candle closed at 18444.79000000
+the current rsi is 34.34024958300114
+candle closed at 18435.11000000
+the current rsi is 33.85794561913452
+candle closed at 18410.76000000
+the current rsi is 32.6169533719509
+candle closed at 18366.61000000
+the current rsi is 30.438500612970586
+candle closed at 18317.23000000
+the current rsi is 28.17213691524326
+It is oversold, but you already own it, nothing to do.
+candle closed at 18246.75000000
+the current rsi is 25.279019451193243
+It is oversold, but you already own it, nothing to do.
+candle closed at 18108.06000000
+the current rsi is 20.760911273977182
+It is oversold, but you already own it, nothing to do.
+candle closed at 18015.67000000
+the current rsi is 18.401449539583307
+It is oversold, but you already own it, nothing to do.
+candle closed at 17995.82000000
+the current rsi is 17.929966334170146
+It is oversold, but you already own it, nothing to do.
+candle closed at 18029.64000000
+the current rsi is 21.615028127241516
+It is oversold, but you already own it, nothing to do.
+candle closed at 18100.00000000
+the current rsi is 28.779768462313555
+It is oversold, but you already own it, nothing to do.
+candle closed at 18032.86000000
+the current rsi is 26.308583234883145
+It is oversold, but you already own it, nothing to do.
+candle closed at 17929.26000000
+the current rsi is 23.023459800978184
+It is oversold, but you already own it, nothing to do.
+candle closed at 17894.79000000
+the current rsi is 22.037448803692552
+It is oversold, but you already own it, nothing to do.
+candle closed at 17937.19000000
+the current rsi is 26.22289750432911
+It is oversold, but you already own it, nothing to do.
+candle closed at 18062.98000000
+the current rsi is 37.02459252776139
+candle closed at 18094.57000000
+the current rsi is 39.423230037792614
+candle closed at 18157.41000000
+the current rsi is 43.993124918616836
+candle closed at 18200.15000000
+the current rsi is 46.925816831932785
+candle closed at 18200.00000000
+the current rsi is 46.91653160712462
+candle closed at 18298.00000000
+the current rsi is 53.403652054131165
+candle closed at 18266.13000000
+the current rsi is 51.211838013807565
+candle closed at 18302.82000000
+the current rsi is 53.574179446525825
+candle closed at 18287.30000000
+the current rsi is 52.41796848119479
+candle closed at 18289.01000000
+the current rsi is 52.53950391237192
+candle closed at 18312.16000000
+the current rsi is 54.243438334558846
+candle closed at 18300.99000000
+the current rsi is 53.250031074283946
+candle closed at 18303.01000000
+the current rsi is 53.41618021363716
+candle closed at 18249.16000000
+the current rsi is 48.47063165538791
+candle closed at 18132.65000000
+the current rsi is 39.86967896839239
+candle closed at 18156.73000000
+the current rsi is 42.15431393422837
+candle closed at 18072.59000000
+the current rsi is 36.88128611583531
+candle closed at 18135.54000000
+the current rsi is 42.66027129822855
+candle closed at 18234.07000000
+the current rsi is 50.32640613691548
+candle closed at 18277.59000000
+the current rsi is 53.29653318517007
+candle closed at 18219.37000000
+the current rsi is 49.06955898377017
+candle closed at 18259.37000000
+the current rsi is 51.892586543393534
+candle closed at 18252.60000000
+the current rsi is 51.37355865703472
+candle closed at 18278.62000000
+the current rsi is 53.30661297909586
+candle closed at 18313.88000000
+the current rsi is 55.86693928226584
+candle closed at 18314.79000000
+the current rsi is 55.934095525989626
+candle closed at 18235.08000000
+the current rsi is 48.91303014705626
+candle closed at 18196.03000000
+the current rsi is 45.8749782972438
+candle closed at 18162.48000000
+the current rsi is 43.381903072455735
+candle closed at 18100.75000000
+the current rsi is 39.16454012366612
+candle closed at 18059.44000000
+the current rsi is 36.600289330415386
+candle closed at 17932.73000000
+the current rsi is 30.09209797556391
+candle closed at 17900.36000000
+the current rsi is 28.688631266208542
+It is oversold, but you already own it, nothing to do.
+candle closed at 17909.40000000
+the current rsi is 29.67506832964821
+It is oversold, but you already own it, nothing to do.
+candle closed at 17801.05000000
+the current rsi is 25.179339467922286
+It is oversold, but you already own it, nothing to do.
+candle closed at 17884.06000000
+the current rsi is 33.49248334177887
+candle closed at 17440.00000000
+the current rsi is 20.421150214647994
+It is oversold, but you already own it, nothing to do.
+candle closed at 17696.67000000
+the current rsi is 35.97506797465172
+candle closed at 17809.38000000
+the current rsi is 41.392201852507185
+candle closed at 17850.06000000
+the current rsi is 43.25826456546776
+candle closed at 17874.73000000
+the current rsi is 44.414132213228875
+candle closed at 17891.98000000
+the current rsi is 45.25390781226835
+candle closed at 17951.84000000
+the current rsi is 48.179620958104316
+candle closed at 17988.85000000
+the current rsi is 49.96019993122747
+candle closed at 17948.71000000
+the current rsi is 48.032502640934965
+candle closed at 18023.61000000
+the current rsi is 51.77191868155527
+candle closed at 18084.78000000
+the current rsi is 54.64245390773207
+candle closed at 18083.12000000
+the current rsi is 54.547569992823696
+candle closed at 18055.92000000
+the current rsi is 52.92585046757806
+candle closed at 18077.53000000
+the current rsi is 54.09358536340544
+candle closed at 17948.71000000
+the current rsi is 46.662636677168365
+candle closed at 18009.63000000
+the current rsi is 50.15020822807311
+candle closed at 17985.41000000
+the current rsi is 48.784455817445036
+candle closed at 17937.19000000
+the current rsi is 46.09308954922239
+candle closed at 17937.19000000
+the current rsi is 46.0930895492224
+candle closed at 17958.61000000
+the current rsi is 47.5828831237757
+candle closed at 17994.39000000
+the current rsi is 50.06538134263969
+candle closed at 17961.21000000
+the current rsi is 47.804363025985346
+candle closed at 17949.16000000
+the current rsi is 46.97465460817938
+candle closed at 17980.50000000
+the current rsi is 49.43288598229625
+candle closed at 18081.16000000
+the current rsi is 56.420988164484285
+candle closed at 17977.99000000
+the current rsi is 48.9537764219544
+candle closed at 18005.21000000
+the current rsi is 50.803764886437875
+candle closed at 18018.76000000
+the current rsi is 51.741362124507596
+candle closed at 17960.97000000
+the current rsi is 47.576725785147445
+candle closed at 17873.28000000
+the current rsi is 42.046406893964225
+candle closed at 17820.58000000
+the current rsi is 39.1045084071433
+candle closed at 17783.12000000
+the current rsi is 37.11654590208878
+candle closed at 17781.83000000
+the current rsi is 37.04670054953549
+candle closed at 17839.48000000
+the current rsi is 42.27464381932164
+candle closed at 17919.53000000
+the current rsi is 48.65124160809937
+candle closed at 17863.79000000
+the current rsi is 44.929515177680166
+candle closed at 17828.93000000
+the current rsi is 42.72806507351895
+candle closed at 17781.89000000
+the current rsi is 39.887904163926294
+candle closed at 17813.47000000
+the current rsi is 42.64426496527218
+candle closed at 17836.98000000
+the current rsi is 44.67801302632392
+candle closed at 17810.02000000
+the current rsi is 42.80365273032378
+candle closed at 17782.98000000
+the current rsi is 40.94813611844697
+candle closed at 17707.78000000
+the current rsi is 36.242695071061156
+candle closed at 17686.71000000
+the current rsi is 35.02814691402411
+candle closed at 17789.61000000
+the current rsi is 44.76358045403702
+candle closed at 17823.70000000
+the current rsi is 47.5666505239492
+candle closed at 17739.51000000
+the current rsi is 41.910172839354
+candle closed at 17614.29000000
+the current rsi is 35.204536315948545
+candle closed at 17649.66000000
+the current rsi is 38.21180419092518
+candle closed at 17717.01000000
+the current rsi is 43.58134858585287
+candle closed at 17599.00000000
+the current rsi is 37.441580221382644
+candle closed at 17618.00000000
+the current rsi is 38.933259763618864
+candle closed at 17757.15000000
+the current rsi is 48.59975883234757
+candle closed at 17803.69000000
+the current rsi is 51.37228823822544
+candle closed at 17830.29000000
+the current rsi is 52.934895968261486
+candle closed at 17859.38000000
+the current rsi is 54.651140901113
+candle closed at 17850.42000000
+the current rsi is 53.99799998473155
+candle closed at 17877.00000000
+the current rsi is 55.68977746618982
+candle closed at 17932.43000000
+the current rsi is 59.07027007329276
+candle closed at 17882.28000000
+the current rsi is 54.98315856911301
+candle closed at 18005.56000000
+the current rsi is 61.95234112207175
+candle closed at 18100.00000000
+the current rsi is 66.26139547855304
+candle closed at 18102.81000000
+the current rsi is 66.38339074063543
+candle closed at 18098.59000000
+the current rsi is 65.997438343934
+candle closed at 18028.92000000
+the current rsi is 59.81444949095057
+candle closed at 18067.60000000
+the current rsi is 61.946006546598895
+candle closed at 18052.15000000
+the current rsi is 60.56413006690443
+candle closed at 18095.54000000
+the current rsi is 63.05664674684264
+candle closed at 18062.98000000
+the current rsi is 59.9924095338068
+candle closed at 18054.89000000
+the current rsi is 59.222347105110764
+candle closed at 18032.90000000
+the current rsi is 57.07769217356991
+candle closed at 18020.90000000
+the current rsi is 55.88827765330283
+candle closed at 18050.64000000
+the current rsi is 58.212398352360275
+candle closed at 18034.77000000
+the current rsi is 56.50164881648685
+candle closed at 18083.57000000
+the current rsi is 60.359436614195516
+candle closed at 18068.52000000
+the current rsi is 58.63238830432231
+candle closed at 18068.68000000
+the current rsi is 58.64593538373582
+candle closed at 18000.56000000
+the current rsi is 50.98982647819364
+candle closed at 18019.78000000
+the current rsi is 52.859756829719494
+candle closed at 18012.19000000
+the current rsi is 52.01574776152135
+candle closed at 17930.85000000
+the current rsi is 43.921976876849115
+candle closed at 17880.95000000
+the current rsi is 39.82765606234045
+candle closed at 17887.39000000
+the current rsi is 40.59727608061234
+candle closed at 17938.43000000
+the current rsi is 46.44381130999759
+candle closed at 17889.01000000
+the current rsi is 42.12098768853899
+candle closed at 17898.24000000
+the current rsi is 43.184614473014825
+candle closed at 17975.77000000
+the current rsi is 51.283048112558795
+candle closed at 18003.51000000
+the current rsi is 53.819435933984295
+candle closed at 17992.73000000
+the current rsi is 52.67178303163175
+candle closed at 17980.86000000
+the current rsi is 51.37274801926669
+candle closed at 18040.81000000
+the current rsi is 57.12420848271932
+candle closed at 17992.32000000
+the current rsi is 51.78864112313859
+candle closed at 17992.12000000
+the current rsi is 51.767163942031104
+candle closed at 18007.00000000
+the current rsi is 53.31829015576438
+candle closed at 18013.51000000
+the current rsi is 54.01504950129669
+candle closed at 18000.01000000
+the current rsi is 52.272648872511894
+candle closed at 18062.39000000
+the current rsi is 58.87417241568406
+candle closed at 18115.00000000
+the current rsi is 63.46408531336291
+candle closed at 18037.44000000
+the current rsi is 53.91141655139111
+candle closed at 18132.03000000
+the current rsi is 61.51883073568604
+candle closed at 18132.80000000
+the current rsi is 61.574433216265646
+candle closed at 18126.96000000
+the current rsi is 60.85621298271635
+candle closed at 18122.72000000
+the current rsi is 60.30622016938233
+candle closed at 18165.32000000
+the current rsi is 63.84199780252309
+candle closed at 18139.65000000
+the current rsi is 60.35329156722188
+candle closed at 18175.34000000
+the current rsi is 63.35186809496768
+candle closed at 18197.20000000
+the current rsi is 65.09329461388909
+candle closed at 18187.51000000
+the current rsi is 63.64949611960421
+candle closed at 18231.88000000
+the current rsi is 67.23336795663411
+candle closed at 18235.00000000
+the current rsi is 67.47619288017675
+candle closed at 18195.39000000
+the current rsi is 61.268455695175575
+candle closed at 18205.19000000
+the current rsi is 62.19514936053008
+candle closed at 18150.00000000
+the current rsi is 54.31380012447151
+candle closed at 18198.61000000
+the current rsi is 59.21592715777637
+candle closed at 18166.65000000
+the current rsi is 55.03471610872429
+candle closed at 18195.06000000
+the current rsi is 57.881690949823074
+candle closed at 18248.22000000
+the current rsi is 62.64738076765213
+candle closed at 18245.33000000
+the current rsi is 62.235104984257575
+candle closed at 18289.80000000
+the current rsi is 65.94853064607419
+candle closed at 18237.39000000
+the current rsi is 58.63128584098851
+candle closed at 18233.39000000
+the current rsi is 58.10142749563546
+candle closed at 18319.16000000
+the current rsi is 65.33539726754626
+candle closed at 18345.64000000
+the current rsi is 67.21726829666285
+candle closed at 18350.95000000
+the current rsi is 67.59714972890907
+candle closed at 18328.10000000
+the current rsi is 64.15214007885683
+candle closed at 18360.61000000
+the current rsi is 66.74863227127823
+candle closed at 18344.14000000
+the current rsi is 64.21119197679559
+candle closed at 18353.86000000
+the current rsi is 65.05547859721304
+candle closed at 18350.76000000
+the current rsi is 64.53259870676034
+candle closed at 18301.24000000
+the current rsi is 56.693677204515346
+candle closed at 18311.37000000
+the current rsi is 57.822362592864216
+candle closed at 18323.63000000
+the current rsi is 59.20803919574229
+candle closed at 18330.75000000
+the current rsi is 60.029326867941776
+candle closed at 18350.41000000
+the current rsi is 62.28719101282832
+candle closed at 18339.96000000
+the current rsi is 60.3362152697703
+candle closed at 18318.71000000
+the current rsi is 56.463227291571215
+candle closed at 18314.26000000
+the current rsi is 55.657519265946334
+candle closed at 18260.76000000
+the current rsi is 46.97818051959447
+candle closed at 18273.95000000
+the current rsi is 49.08619712281249
+candle closed at 18299.99000000
+the current rsi is 53.05441090603452
+candle closed at 18229.43000000
+the current rsi is 43.223721845043556
+candle closed at 18236.18000000
+the current rsi is 44.28724507774771
+candle closed at 18260.07000000
+the current rsi is 47.99987379472857
+candle closed at 18289.25000000
+the current rsi is 52.190641805274296
+candle closed at 18262.16000000
+the current rsi is 48.29897593220187
+candle closed at 18245.25000000
+the current rsi is 45.99350980098373
+candle closed at 18329.42000000
+the current rsi is 56.99674822717588
+candle closed at 18303.84000000
+the current rsi is 53.43373066495908
+candle closed at 18269.28000000
+the current rsi is 48.97886626637955
+candle closed at 18355.45000000
+the current rsi is 58.31146631624764
+candle closed at 18349.62000000
+the current rsi is 57.544539691115446
+candle closed at 18354.47000000
+the current rsi is 58.03896862132139
+candle closed at 18339.83000000
+the current rsi is 55.92189377495749
+candle closed at 18322.15000000
+the current rsi is 53.38912693130815
+candle closed at 18301.24000000
+the current rsi is 50.47729774487204
+candle closed at 18313.90000000
+the current rsi is 52.17791257197474
+candle closed at 18375.70000000
+the current rsi is 59.49088355809112
+candle closed at 18374.82000000
+the current rsi is 59.35170337952883
+candle closed at 18371.03000000
+the current rsi is 58.71459363026552
+candle closed at 18360.03000000
+the current rsi is 56.808549624146664
+candle closed at 18365.93000000
+the current rsi is 57.603537481112376
+candle closed at 18555.14000000
+the current rsi is 74.08024324139897
+SIDE_SELL
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 27447335, 'orderListId': -1, 'clientOrderId': 'mLeQmgMWRcaLOgCeqmPKuo', 'transactTime': 1620153782158, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '148.14680000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'SELL', 'fills': [{'price': '18518.35000000', 'qty': '0.00800000', 'commission': '0.14814680', 'commissionAsset': 'BRL', 'tradeId': 1431382}], '_id': ObjectId('609195b74f3ddf21f673e25a')}
+candle closed at 18541.27000000
+the current rsi is 71.8751025622724
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18520.74000000
+the current rsi is 68.61916189437642
+candle closed at 18583.41000000
+the current rsi is 72.68666721519817
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18616.62000000
+the current rsi is 74.56788846261688
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18637.99000000
+the current rsi is 75.72644923356661
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18630.71000000
+the current rsi is 74.4816558726339
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18644.82000000
+the current rsi is 75.32816461252341
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18615.82000000
+the current rsi is 70.17562970788495
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18665.46000000
+the current rsi is 73.5151189015271
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18642.75000000
+the current rsi is 69.6715533039374
+candle closed at 18607.53000000
+the current rsi is 64.07639232572495
+candle closed at 18615.66000000
+the current rsi is 64.7795264274082
+candle closed at 18634.80000000
+the current rsi is 66.44468503847466
+candle closed at 18619.01000000
+the current rsi is 63.76627926071032
+candle closed at 18571.65000000
+the current rsi is 56.42005954633671
+candle closed at 18612.35000000
+the current rsi is 60.61888868940625
+candle closed at 18600.20000000
+the current rsi is 58.79764502323095
+candle closed at 18632.70000000
+the current rsi is 62.07954534372211
+candle closed at 18583.97000000
+the current rsi is 55.00493194408299
+candle closed at 18616.67000000
+the current rsi is 58.42855053949235
+candle closed at 18619.83000000
+the current rsi is 58.75514906165983
+candle closed at 18583.16000000
+the current rsi is 53.50224394746548
+candle closed at 18542.62000000
+the current rsi is 48.35523803791668
+candle closed at 18548.20000000
+the current rsi is 49.0813353240238
+candle closed at 18538.91000000
+the current rsi is 47.87452447657083
+candle closed at 18537.29000000
+the current rsi is 47.65447995832259
+candle closed at 18500.56000000
+the current rsi is 42.84600845172553
+candle closed at 18520.00000000
+the current rsi is 45.95431845347119
+candle closed at 18535.10000000
+the current rsi is 48.30602463752341
+candle closed at 18522.24000000
+the current rsi is 46.45216549704468
+candle closed at 18446.11000000
+the current rsi is 37.32096560014615
+candle closed at 18480.23000000
+the current rsi is 42.75242864307939
+candle closed at 18474.39000000
+the current rsi is 42.08028558428146
+candle closed at 18501.49000000
+the current rsi is 46.29939900551827
+candle closed at 18474.98000000
+the current rsi is 42.99962231796265
+candle closed at 18541.89000000
+the current rsi is 52.249805385717096
+candle closed at 18505.05000000
+the current rsi is 47.66341493514707
+candle closed at 18531.03000000
+the current rsi is 50.93432309779355
+candle closed at 18534.25000000
+the current rsi is 51.34023740853989
+candle closed at 18537.00000000
+the current rsi is 51.7076855823065
+candle closed at 18528.12000000
+the current rsi is 50.38459720655545
+candle closed at 18543.21000000
+the current rsi is 52.604001339492854
+candle closed at 18530.87000000
+the current rsi is 50.610258998268776
+candle closed at 18543.03000000
+the current rsi is 52.51995598757534
+candle closed at 18567.59000000
+the current rsi is 56.203349221076934
+candle closed at 18542.63000000
+the current rsi is 51.804814748296536
+candle closed at 18520.46000000
+the current rsi is 48.196788410859334
+candle closed at 18560.00000000
+the current rsi is 54.30884499037367
+candle closed at 18605.70000000
+the current rsi is 60.159678424541454
+candle closed at 18575.00000000
+the current rsi is 55.0590770481459
+candle closed at 18573.06000000
+the current rsi is 54.7432173373545
+candle closed at 18600.97000000
+the current rsi is 58.43734092766722
+candle closed at 18612.99000000
+the current rsi is 59.953422150529114
+candle closed at 18661.84000000
+the current rsi is 65.46661384061537
+candle closed at 18625.74000000
+the current rsi is 59.00214561052968
+candle closed at 18649.57000000
+the current rsi is 61.69127760222071
+candle closed at 18645.61000000
+the current rsi is 60.97552592794744
+candle closed at 18625.01000000
+the current rsi is 57.254160029534354
+candle closed at 18605.00000000
+the current rsi is 53.81825625492374
+candle closed at 18618.70000000
+the current rsi is 55.77511215949572
+candle closed at 18614.98000000
+the current rsi is 55.092478207990325
+candle closed at 18651.57000000
+the current rsi is 60.246297307996066
+candle closed at 18685.59000000
+the current rsi is 64.3436516910912
+candle closed at 18633.06000000
+the current rsi is 54.929348782966045
+candle closed at 18649.01000000
+the current rsi is 56.98721888255617
+candle closed at 18677.84000000
+the current rsi is 60.498060083523505
+candle closed at 18600.66000000
+the current rsi is 48.97360173526394
+candle closed at 18661.12000000
+the current rsi is 56.03841192649804
+candle closed at 18674.66000000
+the current rsi is 57.45893770452414
+candle closed at 18677.78000000
+the current rsi is 57.79734222968387
+candle closed at 18667.67000000
+the current rsi is 56.23626095696713
+candle closed at 18633.92000000
+the current rsi is 51.258951229920726
+candle closed at 18651.38000000
+the current rsi is 53.54942071003865
+candle closed at 18664.22000000
+the current rsi is 55.216118424901296
+candle closed at 18686.16000000
+the current rsi is 57.98992063803022
+candle closed at 18759.19000000
+the current rsi is 65.62258744726084
+candle closed at 18762.29000000
+the current rsi is 65.90575853667109
+candle closed at 18798.46000000
+the current rsi is 69.1035878135654
+candle closed at 18823.69000000
+the current rsi is 71.13719121223872
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18834.67000000
+the current rsi is 72.0009090963846
+It is overbought, but we don't own any. Nothing to do.
+candle closed at 18803.67000000
+the current rsi is 65.9961453199014
+candle closed at 18805.84000000
+the current rsi is 66.20859054648542
+candle closed at 18821.70000000
+the current rsi is 67.79240831245059
+candle closed at 18805.84000000
+the current rsi is 64.53495215463052
+candle closed at 18782.30000000
+the current rsi is 59.93192336454014
+candle closed at 18821.36000000
+the current rsi is 64.46150595806998
+candle closed at 18833.98000000
+the current rsi is 65.80648415685383
+candle closed at 18844.24000000
+the current rsi is 66.90315307506162
+candle closed at 18866.00000000
+the current rsi is 69.16213275764264
+candle closed at 18854.31000000
+the current rsi is 66.5348012678248
+candle closed at 18803.72000000
+the current rsi is 56.52702721195715
+candle closed at 18849.49000000
+the current rsi is 62.08370749271522
+candle closed at 18818.56000000
+the current rsi is 56.800118769433894
+candle closed at 18828.18000000
+the current rsi is 57.99743001093325
+candle closed at 18818.94000000
+the current rsi is 56.38106527434687
+candle closed at 18818.53000000
+the current rsi is 56.30607888009721
+candle closed at 18810.01000000
+the current rsi is 54.678630422807416
+candle closed at 18784.76000000
+the current rsi is 50.06062248358821
+candle closed at 18799.67000000
+the current rsi is 52.6060509072738
+candle closed at 18727.85000000
+the current rsi is 41.60536946787416
+candle closed at 18689.70000000
+the current rsi is 37.16013205309053
+candle closed at 18583.05000000
+the current rsi is 28.11626441112727
+SIDE_BUY
+Sending order...
+{'symbol': 'ETHBRL', 'orderId': 27463792, 'orderListId': -1, 'clientOrderId': 'LNXlCnWsgzGSKnTsQXAN0X', 'transactTime': 1620159901384, 'price': '0.00000000', 'origQty': '0.00800000', 'executedQty': '0.00800000', 'cummulativeQuoteQty': '148.77808000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'fills': [{'price': '18597.26000000', 'qty': '0.00800000', 'commission': '0.00000800', 'commissionAsset': 'ETH', 'tradeId': 1434458}], '_id': ObjectId('6091ad9d4f3ddf21f673e25b')}
+candle closed at 18653.58000000
+the current rsi is 38.73529773805033
+candle closed at 18653.57000000
+the current rsi is 38.734424038226834
+candle closed at 18621.82000000
+the current rsi is 35.961004464329406
+candle closed at 18511.39000000
+the current rsi is 28.356110545768807
+It is oversold, but you already own it, nothing to do.
+candle closed at 18453.92000000
+the current rsi is 25.351403332442068
+It is oversold, but you already own it, nothing to do.
+candle closed at 18550.45000000
+the current rsi is 37.35816204105788
+candle closed at 18500.00000000
+the current rsi is 34.256917814523874
+candle closed at 18511.68000000
+the current rsi is 35.59003968835384
+candle closed at 18491.90000000
+the current rsi is 34.32079526523395
+candle closed at 18483.33000000
+the current rsi is 33.759041340929514
+candle closed at 18468.75000000
+the current rsi is 32.77614431485279
+candle closed at 18487.64000000
+the current rsi is 35.40040415212311
+candle closed at 18546.11000000
+the current rsi is 42.83866793730754
+candle closed at 18584.31000000
+the current rsi is 47.122456240101336
+candle closed at 18592.96000000
+the current rsi is 48.07146271883093
+candle closed at 18624.55000000
+the current rsi is 51.49520288715971
+candle closed at 18594.99000000
+the current rsi is 48.28698202751084
+candle closed at 18594.15000000
+the current rsi is 48.19509380422085
+candle closed at 18657.68000000
+the current rsi is 55.14702269047448
+candle closed at 18633.38000000
+the current rsi is 52.25832549063142
+candle closed at 18709.69000000
+the current rsi is 59.442979456257916
+candle closed at 18719.13000000
+the current rsi is 60.24010848216632
+candle closed at 18752.47000000
+the current rsi is 63.005626795320055
+candle closed at 18724.84000000
+the current rsi is 59.323026208541606
+candle closed at 18697.16000000
+the current rsi is 55.80409150652902
+candle closed at 18703.45000000
+the current rsi is 56.43647448671475
+candle closed at 18728.33000000
+the current rsi is 58.93918211268495
+candle closed at 18773.63000000
+the current rsi is 63.09627572170471
+candle closed at 18815.22000000
+the current rsi is 66.45423419191734
+candle closed at 18841.31000000
+the current rsi is 68.39692762312515
+candle closed at 18845.05000000
+the current rsi is 68.67696282853159
+candle closed at 18812.22000000
+the current rsi is 63.368816487108944
+candle closed at 18814.94000000
+the current rsi is 63.619704971645994
+candle closed at 18827.30000000
+the current rsi is 64.79951655559884
+candle closed at 18801.89000000
+the current rsi is 60.45865627437216
+candle closed at 18743.38000000
+the current rsi is 51.84613097304032
+candle closed at 18749.98000000
+the current rsi is 52.665256701654485
+candle closed at 18752.01000000
+the current rsi is 52.93047044385002
+candle closed at 18654.37000000
+the current rsi is 41.024268181794056
+candle closed at 18565.70000000
+the current rsi is 33.62675032110392
+candle closed at 18622.45000000
+the current rsi is 40.964039773234894
+candle closed at 18632.97000000
+the current rsi is 42.23875643551968
+candle closed at 18639.98000000
+the current rsi is 43.1200951623418
+candle closed at 18684.65000000
+the current rsi is 48.51146890366777
+candle closed at 18640.92000000
+the current rsi is 44.10420751149424
+candle closed at 18664.12000000
+the current rsi is 46.862369442586335
+candle closed at 18660.29000000
+the current rsi is 46.45483247213672
+candle closed at 18706.91000000
+the current rsi is 51.934275781798846
+candle closed at 18737.11000000
+the current rsi is 55.137029469049004
+candle closed at 18733.09000000
+the current rsi is 54.615346645809595
+candle closed at 18648.21000000
+the current rsi is 44.94561353921233
+candle closed at 18748.96000000
+the current rsi is 55.10604264336452
+candle closed at 18703.09000000
+the current rsi is 50.53340242557943
+candle closed at 18682.11000000
+the current rsi is 48.54908878420268
+candle closed at 18663.39000000
+the current rsi is 46.78381349782528
+candle closed at 18626.49000000
+the current rsi is 43.43152317116251
+candle closed at 18667.80000000
+the current rsi is 47.92982462953741
+candle closed at 18641.37000000
+the current rsi is 45.44016149012952
+candle closed at 18604.28000000
+the current rsi is 42.13267459442767
+candle closed at 18599.75000000
+the current rsi is 41.733129984561465
+candle closed at 18636.68000000
+the current rsi is 46.21132385781906
+candle closed at 18654.02000000
+the current rsi is 48.223510548645535
+candle closed at 18641.37000000
+the current rsi is 46.846674280620626
+candle closed at 18617.96000000
+the current rsi is 44.32456704279954
+candle closed at 18630.92000000
+the current rsi is 46.056040642280365
+candle closed at 18643.19000000
+the current rsi is 47.71395579694024
+candle closed at 18639.27000000
+the current rsi is 47.21470024130808
+candle closed at 18613.31000000
+the current rsi is 43.93600288152829
+candle closed at 18564.97000000
+the current rsi is 38.56555700839941
+candle closed at 18527.21000000
+the current rsi is 34.9697802128728
+candle closed at 18450.00000000
+the current rsi is 29.01299511687716
+It is oversold, but you already own it, nothing to do.
+candle closed at 18492.80000000
+the current rsi is 35.565295111601806
+candle closed at 18492.66000000
+the current rsi is 35.553734811738195
+candle closed at 18497.00000000
+the current rsi is 36.24556492524708
+candle closed at 18518.89000000
+the current rsi is 39.758256016212634
+candle closed at 18537.04000000
+the current rsi is 42.583040378326956
+candle closed at 18514.98000000
+the current rsi is 40.12058385827181
+candle closed at 18469.83000000
+the current rsi is 35.58497588307109
+candle closed at 18482.18000000
+the current rsi is 37.66095183788664
+candle closed at 18497.98000000
+the current rsi is 40.3112950304905
+candle closed at 18511.05000000
+the current rsi is 42.48946873559654
+candle closed at 18528.68000000
+the current rsi is 45.38465458453522
+candle closed at 18546.10000000
+the current rsi is 48.161562584116865
+candle closed at 18552.57000000
+the current rsi is 49.19478988287121
+candle closed at 18547.82000000
+the current rsi is 48.43157544221453
+candle closed at 18555.55000000
+the current rsi is 49.79657155088072
+candle closed at 18540.01000000
+the current rsi is 47.0975751743218
+candle closed at 18519.76000000
+the current rsi is 43.768502736228214
+candle closed at 18460.49000000
+the current rsi is 35.793611026851124
+candle closed at 18503.62000000
+the current rsi is 43.81602034494935
+candle closed at 18555.56000000
+the current rsi is 51.65074174225407
+candle closed at 18523.07000000
+the current rsi is 47.21539911889927
+candle closed at 18500.00000000
+the current rsi is 44.306047662094166
+candle closed at 18470.00000000
+the current rsi is 40.78649660764562
+candle closed at 18453.60000000
+the current rsi is 38.96428725161762
+candle closed at 18535.34000000
+the current rsi is 50.769889536170446
+candle closed at 18491.95000000
+the current rsi is 45.71509555310009
+candle closed at 18482.65000000
+the current rsi is 44.688103351225436
+candle closed at 18388.69000000
+the current rsi is 35.9105364237828
+candle closed at 18376.44000000
+the current rsi is 34.94678027866179
+candle closed at 18349.63000000
+the current rsi is 32.867750734327664
+candle closed at 18367.51000000
+the current rsi is 35.61861517484042
+candle closed at 18353.01000000
+the current rsi is 34.38797862306024
+candle closed at 18323.49000000

@@ -21,7 +21,7 @@ DATE_NOW = date.today().strftime("%d %b, %y")
 print(DATE_NOW)
 LOG = "ccd.log" 
 SWING_PRICE = 0.0
-SWING_MARGIN = 3.0
+SWING_MARGIN = 2.0
 
 
 SIDE_BUY = 'BUY'
