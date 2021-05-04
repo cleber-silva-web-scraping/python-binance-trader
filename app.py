@@ -7,7 +7,6 @@ from datetime import datetime
 from binance.enums import *
 import repository
 from messenger import Messenger 
-import schedule
 
 
 SOCKET = "wss://stream.binance.com:9443/ws/ethbrl@kline_1m"
@@ -21,7 +20,7 @@ DATE_NOW = date.today().strftime("%d %b, %y")
 print(DATE_NOW)
 LOG = "ccd.log" 
 SWING_PRICE = 0.0
-SWING_MARGIN = 2.0
+SWING_MARGIN = 1.2
 
 
 SIDE_BUY = 'BUY'
@@ -81,9 +80,6 @@ print("")
 def report():
     inf = get_info()   
     messenger.send("BRL: {}. \nETH: {}.".format(inf['BRL'], inf['ETH']))
-
-
-schedule.every().hour.do(report)
 
 closes = []
 def make_historical():
@@ -160,8 +156,7 @@ def on_close(ws):
     log('closed connection')
 
 def on_message(ws, message):
-    global closes, in_position
-    schedule.run_pending()    
+    global closes, in_position    
     json_message = json.loads(message)
     candle = json_message['k']
     is_candle_closed = candle['x']
@@ -177,7 +172,10 @@ def on_message(ws, message):
             last_rsi = rsi[-1]
             log("the current rsi is {}".format(last_rsi))
             if last_rsi > RSI_OVERBOUGHT:
-               sell()            
+                if(SWING_PRICE == 0.0 or get_price() > SWING_PRICE):
+                    sell()            
+                else:
+                    print("Don't sell [>:| ")
             if last_rsi < RSI_OVERSOLD:
                 buy()         
 
