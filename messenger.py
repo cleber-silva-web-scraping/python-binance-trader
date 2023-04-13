@@ -1,12 +1,15 @@
-import telegram
 import config
+import json
+import requests
+import urllib
+
 
 class Messenger:
     def __init__(self):
-        self.bot = telegram.Bot(token=config.TOKEN)
+        self.url = "https://api.telegram.org/bot{}/".format(config.TOKEN)
+        self.send("Iniciando.")
 
     def send(self, message):
-        self.bot.sendMessage(chat_id=config.CHAT_ID, text=message)
-
-
-
+        tot = urllib.parse.quote_plus(message)
+        url = self.url + "sendMessage?text={}&chat_id={}".format(tot, config.CHAT_ID)
+        requests.get(url)
