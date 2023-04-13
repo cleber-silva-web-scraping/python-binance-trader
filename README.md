@@ -1,12 +1,13 @@
 ## Bot for trader crypto currency in Binance
 
 # Requirementes
+
     * Python 3.x
     * TA-Lib
 
 # Install TA-Lib
 
-* download from https://mrjbq7.github.io/ta-lib/install.html
+- download from https://mrjbq7.github.io/ta-lib/install.html
 
 ```
 $ cd /../ta-lib
@@ -29,15 +30,20 @@ $ pip install -r requirements
 
 # Config
 
-* copy file `config-example.py` to `config.py`
-* update `config.py` with your data 
-
+- copy file `config-example.py` to `config.py`
+- update `config.py` with your data
 
 # Running
 
 ```
-python app.py 
+python app.py
 ```
+
+# Running in docker
+
+docker build -t cryptob .
+
+docker run -it cryptob
 
 # More
 
