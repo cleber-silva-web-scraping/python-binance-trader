@@ -1,0 +1,9 @@
+FROM cryptob:1
+USER root
+
+WORKDIR /app
+
+COPY . .
+
+
+CMD ["python", "app.py"]

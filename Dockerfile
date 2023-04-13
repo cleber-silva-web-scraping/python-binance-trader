@@ -3,7 +3,8 @@ USER root
 
 WORKDIR /app
 
-COPY . .
+COPY ./ta-lib-0.4.0-src.tar.gz .
+COPY ./requirements .
 
 RUN apt-get update
 
@@ -16,5 +17,3 @@ RUN tar -xvzf ta-lib-0.4.0-src.tar.gz && \
 RUN pip install --upgrade pip
 RUN pip install --upgrade setuptools
 RUN pip install -r requirements.txt
-
-CMD ["python", "app.py"]

@@ -41,9 +41,11 @@ python app.py
 
 # Running in docker
 
-docker build -t cryptob .
+docker build -t cryptob:1 .
 
-docker run -it cryptob
+docker build -t cryptoapp -f DockerfileApp
+
+docker run -itd cryptoapp
 
 # More
 
