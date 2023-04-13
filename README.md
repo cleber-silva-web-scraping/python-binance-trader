@@ -43,7 +43,7 @@ python app.py
 
 docker build -t cryptob:1 .
 
-docker build -t cryptoapp -f DockerfileApp
+docker build -t cryptoapp . -f DockerfileApp
 
 docker run -itd cryptoapp
 
